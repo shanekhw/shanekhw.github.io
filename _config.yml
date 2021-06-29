@@ -16,7 +16,7 @@ header:
     - name: Work
     - name: Blog
     - name: Publications
-    # - name: Tutorials
+    - name: Tutorials
 
 footer:
   show_powered_by: true
@@ -45,7 +45,7 @@ footer:
 collections:
   tutorials: 
     output: true
-    
+
 # Build settings
 markdown: kramdown
 sass:
