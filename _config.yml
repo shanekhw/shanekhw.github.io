@@ -52,8 +52,7 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
-  - jekyll-spaceship
-
+  
 
 # Excluded items
 exclude:
