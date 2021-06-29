@@ -52,10 +52,9 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+  - jekyll-spaceship
 
-kramdown:
-  math_engine: katex
-# katex: true
+
 # Excluded items
 exclude:
   - .sass-cache/
