@@ -17,8 +17,9 @@ lorem ipsum something something
 ## Test Subheader 2
 This is math:
 
-$$
-  \bar{y} = {1 \over n} \sum_{i = 1}^{n}y_i
-$$
+$$\begin{matrix}
+x & y & z \\ 
+\hline 
+0 & 0 & 0 \\ 0 & 1 & 0 \\ 1 & 0 & 0 \\ 1 & 1 & 1 \\ \hline \end{matrix}$$
 
 <br />
