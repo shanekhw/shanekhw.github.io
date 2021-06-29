@@ -28,4 +28,8 @@ ab + \bar{a}c + bc &=  ab + \bar{a}c + (\bar{a}+a)bc\\
 &= ab(1+c) + \bar{a}c (1+b)\\
 &=ab + \bar{a}c\end{aligned}$$
 
+### Test Subsubheader 3
+
+<div class="yellowbox"> Note that minimised boolean forms are not necessarily unique. The number of terms left in the final expression is unique but its possible to have a different form. </div>
+
 <br />
