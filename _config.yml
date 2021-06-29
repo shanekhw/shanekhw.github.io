@@ -53,6 +53,7 @@ sass:
 plugins:
   - jekyll-feed
 
+katex: true
 # Excluded items
 exclude:
   - .sass-cache/
