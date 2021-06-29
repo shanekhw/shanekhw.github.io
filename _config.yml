@@ -53,7 +53,9 @@ sass:
 plugins:
   - jekyll-feed
 
-katex: true
+kramdown:
+  math_engine: katex
+# katex: true
 # Excluded items
 exclude:
   - .sass-cache/
