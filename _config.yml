@@ -18,7 +18,6 @@ header:
     - name: Projects
     - name: Publications 
     - name: Awards
-    - name: Teaching
 
 footer:
   show_powered_by: false
