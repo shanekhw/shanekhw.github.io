@@ -6,10 +6,9 @@ profile_picture:
 ---
 
 
-**Shane Kyi Hla Win, PhD**<br>
+**Shane Kyi Hla Win, PhD**  
+
 Research Fellow<br>
 Aerial Innovations and Research Lab<br>
 Engineering Product Development Pillar<br>
-<p>
 <a href="https://sutd.edu.sg/">Singapore University of Technology and Design</a>
-</p>
