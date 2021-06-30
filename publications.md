@@ -11,7 +11,10 @@ slug: /publications
 - C.H. Tan, M. Ng, D. Sufiyan, **S.K.H. Win**, W.J. Ang, S.K. Yeung, H.B. Lim, M.N. Do, S. Foong, “A smart unmanned aerial vehicle (UAV) based imaging system for inspection of deep hazardous tunnels,” _IWA Journal of Water Practice and Technology_, Vol 3(4), 991-1000, 2018.
 - C.H. Tan, D. Sufiyan, W.J. Ang, **S.K.H. Win**, S. Foong, “Design optimization of sparse sensing array for extended aerial robot navigation in deep hazardous tunnels,” _IEEE Robotics and Automation Letters_, Vol 4(2), 862-869, 2019.
 - F. Fries, **S.K.H. Win**, E. Tang, J.E. Low, L.S.T. Win, P.V. Alvarado, S. Foong, “Design and implementation of a compact rotation speed and air flow sensor for unmanned aerial vehicles,” _IEEE Sensors Journal_, Vol 19(22), 10298-10307, 2019.
-- 
+- D. Sufiyan, L.S.T. Win, **S.K.H. Win**, G.S. Soh, S. Foong, “Joint Mechanical Design and Flight Control Optimization of a Nature-Inspired Unmanned Aerial Vehicle via Collaborative Co-Evolution,” _IEEE Robotics and Automation Letters,_ Vol 6(2), 2044-2051, 2021.
+
+## Conference Papers
+- **S.K.H. Win**, C.H. Tan, D. Sufiyan, J.E. Low, G.S. Soh, S. Foong, “The effects of chord wise wing optimization of single-winged samara in autorotation,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Munich, Germany, 3-7 July, 2017.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzMDg2MTEzLC0xMzQzMzUxMzU4XX0=
+eyJoaXN0b3J5IjpbLTg1MTM2ODk4NCwtMTM0MzM1MTM1OF19
 -->
