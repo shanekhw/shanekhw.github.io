@@ -14,7 +14,7 @@ slug: /publications
 - D. Sufiyan, L.S.T. Win, **S.K.H. Win**, G.S. Soh, S. Foong, “Joint Mechanical Design and Flight Control Optimization of a Nature-Inspired Unmanned Aerial Vehicle via Collaborative Co-Evolution,” _IEEE Robotics and Automation Letters,_ Vol 6(2), 2044-2051, 2021. ([video](https://youtu.be/zcgfxomweM0))
 
 ### Conference Papers
-- **S.K.H. Win**, C.H. Tan, D. Sufiyan, J.E. Low, G.S. Soh, S. Foong, “The effects of chord wise wing optimization of single-winged samara in autorotation,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Munich, Germany, 3-7 July, 2017. ([video](https://youtu.be/g1nN0-edcaw))
+- **S.K.H. Win**, C.H. Tan, D. Sufiyan, J.E. Low, G.S. Soh, S. Foong, “The effects of chord wise wing optimization of single-winged samara in autorotation,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Munich, Germany, 3-7 July, 2017. ([article](https://doi.org/10.1109/AIM.2017.8014118), [video](https://youtu.be/g1nN0-edcaw))
 - **S.K.H. Win**, T.H. Goh, J.E. Low, D.S.B. Shaiful, L.T.S. Win, G.S. Soh, S. Foong, “Direction controlled descent of Samara Autorotating Wings (SAW) with n-wings,” in _Proceedings of IEEE International Conference on Robotics and Automation_, Brisbane, Australia, 21-25 May, 2018. ([article](https://doi.org/10.1109/ICRA.2018.8463145), [video](https://youtu.be/fv57Ffrih2o))
 - **S.K.H. Win**, L.S.T. Win, D. Sufiyan, G.S. Soh, S. Foong, “Design optimization of flap configuration in samara autorotating wing with multi-functional aerodynamic structure,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Hong Kong, 8-12 July, 2019. ([video](https://youtu.be/-vl7qH9v7xg))
 - **S.K.H. Win**, L.S.T. Win, D. Sufiyan, G.S. Soh, S. Foong, “Concurrent optimization of mechanical design and control for flapless samara-inspired autorotating aerial robot,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Boston, USA, 6-10 July, 2020. ([video](https://youtu.be/LKlf4ttNCnU))
@@ -25,7 +25,7 @@ slug: /publications
 - H. Bhardwaj, **S.K.H. Win**, L.S.T. Win, D. Sufiyan, S. Foong, “PID based sliding mode control of asynchronous multi-actuator monocopter,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Virtual Conference, 12-16 July, 2021.
 - Y.H. Pheh, **S.K.H. Win**, S. Foong, “Design and control of a safe spherical blimp using coanda effect,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Virtual Conference, 12-16 July, 2021.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzc3MjM0NCwtMjE5OTE0MDIyLDU4OT
+eyJoaXN0b3J5IjpbMTAzOTUzNzAyNiwtMjE5OTE0MDIyLDU4OT
 U3MjE1MywxNDEzODY2NTYwLC0xMjYxMTQ3MDQyLC0xMzQzMzUx
 MzU4XX0=
 -->
