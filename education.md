@@ -2,6 +2,7 @@
 layout: work
 title: Education
 slug: /education
+items:
     - title: My Interest 1
         image:
           src: /assets/img/work/water.png
