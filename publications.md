@@ -20,7 +20,11 @@ slug: /publications
 - **S.K.H. Win**, L.S.T. Win, D. Sufiyan, G.S. Soh, S. Foong, “Concurrent optimization of mechanical design and control for flawless samara-inspired autorotating aerial robot,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Boston, USA, 6-10 July, 2020.
 - D. Sufiyan, L.S.T. Win, J.E. Low, **S.K.H. Win**, G.S. Soh, S. Foong, “Optimized transition path of a Transformable HOvering Rotorcraft (THOR),” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Auckland, New Zealand, 9-12 July, 2018.
 - D. Sufiyan, L.S.T. Win, **S.K.H. Win**, G.S. Soh, S. Foong, “A reinforcement learning approach for control of a nature-inspired aerial vehicle,” in _Proceedings of IEEE International Conference on Robotics and Automation_, Montreal, Canada, 20-24 May, 2019.
-- 
+- L.S.T. Win, **S.K.H. Win**, D. Sufiyan, G.S. Soh, S. Foong, “Achieving efficient controlled flight with a single actuator,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Boston, USA, 6-10 July, 2020.
+- D. Sufiyan, Y.H. Pheh, L.S.T. Win, **S.K.H. Win**, G.S. Soh, S. Foong, “Central pattern generator-based control strategy of a nature-inspired unmanned aerial vehicle,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Boston, USA, 6-10 July, 2020.
+- H. Bhardwaj, **S.K.H. Win**, L.S.T. Win, D. Sufiyan, S. Foong, “PID based sliding mode control of asynchronous multi-actuator monocopter,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Virtual Conference, 12-16 July, 2021.
+- Y.H. Pheh, **S.K.H. Win**, S. Foong, “Design and control of a safe spherical blimp using coanda effect,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Virtual Conference, 12-16 July, 2021.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMTEyMjQsLTEzNDMzNTEzNThdfQ==
+eyJoaXN0b3J5IjpbLTEyNjExNDcwNDIsLTEzNDMzNTEzNThdfQ
+==
 -->
