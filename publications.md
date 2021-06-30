@@ -11,7 +11,7 @@ slug: /publications
 - C.H. Tan, M. Ng, D. Sufiyan, **S.K.H. Win**, W.J. Ang, S.K. Yeung, H.B. Lim, M.N. Do, S. Foong, “A smart unmanned aerial vehicle (UAV) based imaging system for inspection of deep hazardous tunnels,” _IWA Journal of Water Practice and Technology_, Vol 3(4), 991-1000, 2018.
 - C.H. Tan, D. Sufiyan, W.J. Ang, **S.K.H. Win**, S. Foong, “Design optimization of sparse sensing array for extended aerial robot navigation in deep hazardous tunnels,” _IEEE Robotics and Automation Letters_, Vol 4(2), 862-869, 2019. ([video](https://youtu.be/8ZcGrekHsUI))
 - F. Fries, **S.K.H. Win**, E. Tang, J.E. Low, L.S.T. Win, P.V. Alvarado, S. Foong, “Design and implementation of a compact rotation speed and air flow sensor for unmanned aerial vehicles,” _IEEE Sensors Journal_, Vol 19(22), 10298-10307, 2019.
-- D. Sufiyan, L.S.T. Win, **S.K.H. Win**, G.S. Soh, S. Foong, “Joint Mechanical Design and Flight Control Optimization of a Nature-Inspired Unmanned Aerial Vehicle via Collaborative Co-Evolution,” _IEEE Robotics and Automation Letters,_ Vol 6(2), 2044-2051, 2021.
+- D. Sufiyan, L.S.T. Win, **S.K.H. Win**, G.S. Soh, S. Foong, “Joint Mechanical Design and Flight Control Optimization of a Nature-Inspired Unmanned Aerial Vehicle via Collaborative Co-Evolution,” _IEEE Robotics and Automation Letters,_ Vol 6(2), 2044-2051, 2021. ([video](https://youtu.be/zcgfxomweM0))
 
 ### Conference Papers
 - **S.K.H. Win**, C.H. Tan, D. Sufiyan, J.E. Low, G.S. Soh, S. Foong, “The effects of chord wise wing optimization of single-winged samara in autorotation,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Munich, Germany, 3-7 July, 2017. ([video](https://youtu.be/g1nN0-edcaw))
@@ -25,6 +25,6 @@ slug: /publications
 - H. Bhardwaj, **S.K.H. Win**, L.S.T. Win, D. Sufiyan, S. Foong, “PID based sliding mode control of asynchronous multi-actuator monocopter,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Virtual Conference, 12-16 July, 2021.
 - Y.H. Pheh, **S.K.H. Win**, S. Foong, “Design and control of a safe spherical blimp using coanda effect,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Virtual Conference, 12-16 July, 2021.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTkzNjYzNyw1ODk1NzIxNTMsMTQxMz
+eyJoaXN0b3J5IjpbLTIxOTkxNDAyMiw1ODk1NzIxNTMsMTQxMz
 g2NjU2MCwtMTI2MTE0NzA0MiwtMTM0MzM1MTM1OF19
 -->
