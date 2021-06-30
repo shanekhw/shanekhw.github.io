@@ -17,7 +17,6 @@ header:
     - name: Positions
     - name: Projects
     - name: Publications
-    - name: Tutorials
 
 footer:
   show_powered_by: false
