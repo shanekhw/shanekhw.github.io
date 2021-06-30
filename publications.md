@@ -15,6 +15,12 @@ slug: /publications
 
 ## Conference Papers
 - **S.K.H. Win**, C.H. Tan, D. Sufiyan, J.E. Low, G.S. Soh, S. Foong, “The effects of chord wise wing optimization of single-winged samara in autorotation,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Munich, Germany, 3-7 July, 2017.
+- **S.K.H. Win**, T.H. Goh, J.E. Low, D.S.B. Shaiful, L.T.S. Win, G.S. Soh, S. Foong, “Direction controlled descent of Samara Autorotating Wings (SAW) with n-wings,” in _Proceedings of IEEE International Conference on Robotics and Automation_, Brisbane, Australia, 21-25 May, 2018.
+- **S.K.H. Win**, L.S.T. Win, D. Sufiyan, G.S. Soh, S. Foong, “Design optimization of flap configuration in samara autorotating wing with multi-functional aerodynamic structure,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Hong Kong, 8-12 July, 2019.
+- **S.K.H. Win**, L.S.T. Win, D. Sufiyan, G.S. Soh, S. Foong, “Concurrent optimization of mechanical design and control for flawless samara-inspired autorotating aerial robot,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Boston, USA, 6-10 July, 2020.
+- D. Sufiyan, L.S.T. Win, J.E. Low, **S.K.H. Win**, G.S. Soh, S. Foong, “Optimized transition path of a Transformable HOvering Rotorcraft (THOR),” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Auckland, New Zealand, 9-12 July, 2018.
+- D. Sufiyan, L.S.T. Win, **S.K.H. Win**, G.S. Soh, S. Foong, “A reinforcement learning approach for control of a nature-inspired aerial vehicle,” in _Proceedings of IEEE International Conference on Robotics and Automation_, Montreal, Canada, 20-24 May, 2019.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTM2ODk4NCwtMTM0MzM1MTM1OF19
+eyJoaXN0b3J5IjpbMjgxMTEyMjQsLTEzNDMzNTEzNThdfQ==
 -->
