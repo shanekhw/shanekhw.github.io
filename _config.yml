@@ -22,25 +22,17 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: shane@sutd.edu.sg
+      link: mailto:shane@sutd.edu.sg
+
   follow:
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: https://twitter.com/shanese7en
+      username: "@shanese7en"
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: www.linkedin.com/in/shanekhw
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/shanekhw
 
 collections:
   tutorials: 
