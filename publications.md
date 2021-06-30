@@ -8,7 +8,7 @@ slug: /publications
 - **S.K.H. Win**, L.S.T. Win, G.S. Soh, S. Foong, “Design, modelling and control of collaborative Samara Autorotating Wings (SAW),” _International Journal of Intelligent Robotics and Applications_, Vol 3, 144-157, 2019.
 - **S.K.H. Win**, L.S.T. Win, D. Sufiyan, G.S. Soh, S. Foong, “Dynamics and control of a collaborative and separating descent of samara autorotating wings,” _IEEE Robotics and Automation Letters_, Vol 4(3), 3067-3074, 2019. ([article](https://doi.org/10.1109/LRA.2019.2924837), [video](https://youtu.be/B74ovD-iJCU))
 - **S.K.H. Win**, L.S.T. Win, D. Sufiyan, G.S. Soh, S. Foong, “An agile samara-inspired single-actuator aerial robot capable of autorotation & diving,” _IEEE Transactions on Robotics_, 2021. (Accepted)
-- C.H. Tan, M. Ng, D. Sufiyan, **S.K.H. Win**, W.J. Ang, S.K. Yeung, H.B. Lim, M.N. Do, S. Foong, “A smart unmanned aerial vehicle (UAV) based imaging system for inspection of deep hazardous tunnels,” _IWA Journal of Water Practice and Technology_, Vol 3(4), 991-1000, 2018.
+- C.H. Tan, M. Ng, D. Sufiyan, **S.K.H. Win**, W.J. Ang, S.K. Yeung, H.B. Lim, M.N. Do, S. Foong, “A smart unmanned aerial vehicle (UAV) based imaging system for inspection of deep hazardous tunnels,” _IWA Journal of Water Practice and Technology_, Vol 3(4), 991-1000, 2018. ([
 - C.H. Tan, D. Sufiyan, W.J. Ang, **S.K.H. Win**, S. Foong, “Design optimization of sparse sensing array for extended aerial robot navigation in deep hazardous tunnels,” _IEEE Robotics and Automation Letters_, Vol 4(2), 862-869, 2019. ([article](https://doi.org/10.1109/LRA.2019.2892796), [video](https://youtu.be/8ZcGrekHsUI))
 - F. Fries, **S.K.H. Win**, E. Tang, J.E. Low, L.S.T. Win, P.V. Alvarado, S. Foong, “Design and implementation of a compact rotation speed and air flow sensor for unmanned aerial vehicles,” _IEEE Sensors Journal_, Vol 19(22), 10298-10307, 2019. ([article](https://doi.org/10.1109/JSEN.2019.2931002))
 - D. Sufiyan, L.S.T. Win, **S.K.H. Win**, G.S. Soh, S. Foong, “Joint Mechanical Design and Flight Control Optimization of a Nature-Inspired Unmanned Aerial Vehicle via Collaborative Co-Evolution,” _IEEE Robotics and Automation Letters,_ Vol 6(2), 2044-2051, 2021. ([video](https://youtu.be/zcgfxomweM0))
@@ -25,7 +25,7 @@ slug: /publications
 - H. Bhardwaj, **S.K.H. Win**, L.S.T. Win, D. Sufiyan, S. Foong, “PID based sliding mode control of asynchronous multi-actuator monocopter,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Virtual Conference, 12-16 July, 2021.
 - Y.H. Pheh, **S.K.H. Win**, S. Foong, “Design and control of a safe spherical blimp using coanda effect,” in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Virtual Conference, 12-16 July, 2021.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTUzNzAyNiwtMjE5OTE0MDIyLDU4OT
+eyJoaXN0b3J5IjpbMTA0NzkyMTIyMywtMjE5OTE0MDIyLDU4OT
 U3MjE1MywxNDEzODY2NTYwLC0xMjYxMTQ3MDQyLC0xMzQzMzUx
 MzU4XX0=
 -->
