@@ -16,7 +16,9 @@ header:
     - name: Education
     - name: Positions
     - name: Projects
-    - name: Publications
+    - name: Publications 
+    - name: Awards
+    - name: Teaching
 
 footer:
   show_powered_by: false
