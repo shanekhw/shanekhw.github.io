@@ -4,8 +4,8 @@ title: Publications
 slug: /publications
 ---
 
-Journal Papers
+## Journal Papers
 <br />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTk3ODM0NF19
+eyJoaXN0b3J5IjpbLTEzNDMzNTEzNThdfQ==
 -->
