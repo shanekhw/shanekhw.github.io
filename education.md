@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/sutd_square.png
       alt: SUTD
-    description: 2020<br>Singapore University of Technology and Design (SUTD), Singapore<br>Thesis - "Design, Development and Control of Samara-inspired Autorotating Wings for Aerial Payload Deployment"
+    description: 2020 (Best Thesis - Design Practice Award)<br>Singapore University of Technology and Design (SUTD), Singapore<br>Thesis - "Design, Development and Control of Samara-inspired Autorotating Wings for Aerial Payload Deployment"
   - title: B.E. in Engineering Product Development<br>
     image:
       src: /assets/img/work/sutd_square.png
