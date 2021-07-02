@@ -19,6 +19,6 @@ items:
       alt: SUTD
     description: (with Merit), Singapore Polytechnic (SP), Singapore
 ---
-Educational history in chronological order.
+
 <br />
 <br />
