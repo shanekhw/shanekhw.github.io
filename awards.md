@@ -22,4 +22,4 @@ slug: /awards
 ### Technology Disclosures
 - S.K.H. Win, L.S.T. Win, G.S. Soh, S. Foong, "_Autorotating aerial device, method of forming the autorotating aerial device and an autorotating aerial system_," 2021<br>_PCT/SG2021/050259_
 - L.S.T. Win, S.K.H. Win, G.S. Soh, S. Foong, "_Single Actuator Monocopter (SAM)_," 2021<br>_TD/EPD/2020/156_
-- S. Foong, S.K.H. Win, C.H. Tan, D. Sufiyan, L.S.T. Win, H.B. Lim, S.K. Yeung, "_Aerial Vehicles, methods of imaging a tunnel and methods of imaging a shaft_," 2019<br>[_WO 2019/190398_, _PCT/SG2019/050167_](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2019190398)
+- S. Foong, S.K.H. Win, C.H. Tan, D. Sufiyan, L.S.T. Win, H.B. Lim, S.K. Yeung, "_Aerial Vehicles, methods of imaging a tunnel and methods of imaging a shaft_," 2019<br>[_WO 2019/190398_](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2019190398), _PCT/SG2019/050167_
