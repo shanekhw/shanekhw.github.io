@@ -10,22 +10,22 @@ items:
     description: October 2020 - Present<br>Aerial Innovations and Research Lab, Temasek Labs<br>Singapore University of Technology and Design (SUTD), Singapore
   - title: Mechanical Engineer<br>
     image:
-      src: /assets/img/work/sutd_square.png
+      src: /assets/img/work/hopetechnik.png
       alt: HopeTechnik
     description: Sept 2015 - Aug 2016<br>Unmanned Systems<br>HOPE Technik Pte Ltd, Singapore
   - title: Junior Engineer<br>   
     image:
-      src: /assets/img/work/sp_square.png
+      src: /assets/img/work/hopetechnik.png
       alt: HopeTechnik
     description: Apr 2014 - Sept 2014<br>Special Vehicle Operations<br>HOPE Technik Pte Ltd, Singapore
   - title: Assistant Design Engineer<br>   
     image:
-      src: /assets/img/work/sp_square.png
+      src: /assets/img/work/airbusheli.png
       alt: Airbus
     description: Apr 2013 - Sept 2013<br>Design Office<br>Airbus Helicopters (Eurocopter), Singapore
   - title: Metrology Technologist<br>   
     image:
-      src: /assets/img/work/sp_square.png
+      src: /assets/img/work/imflash.png
       alt: IMFLASH
     description: Dec 2011 - Apr 2012<br>Metrology Department<br>IMFLASH Singapore, Singapore
   - title: Research Assistant<br>   
