@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Awards
+title: Awards and Technology Disclosures
 slug: /awards
 ---
 
