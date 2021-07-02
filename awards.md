@@ -7,6 +7,9 @@ slug: /awards
 ### Awards
 - Design Practice Award: Best PhD Thesis Award, Singapore University of Technology and Design, 2020<br>Thesis: _Design, Development and Control of Samara-inspired Autorotating Wings for Aerial Payload Deployment_
 - Finalist, Best Paper Award, 2020 International Journal of Intelligent Robotics and Applications<br>Paper: _Design, modelling and control of collaborative Samara Autorotating Wings (SAW)_
+- SGMark Good Design Award for "(_CRoW: Compact Rotating Wing_)[https://sgmark.org/project-description/?id=58]", 2019
+- SGMark Good Design Award for "(_SAW: Samara Autorotating Wings_)[https://sgmark.org/project-description/?id=69]", 2019
+- SGMark Good Design Award for "(_SWIRL: Surveyor With Intelligent Rotating Lens_)[https://sgmark.org/project-description/?id=140]", 2018
 - SUTD PhD President's Graduate Fellowship, 2016
 - Laurel Award, Multi-Rotor Society, SUTD Achievement Awards Ceremony, 2015<br>Role: _Club President_
 - IDA Drone Competition Precision Landing Category, Second Runner-up, 2015
