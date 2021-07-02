@@ -16,7 +16,7 @@ items:
   - title: Diploma in Mechatronics, 2011<br>
     image:
       src: /assets/img/work/splogo_square.jpg
-      alt: SUTD
+      alt: SP
     description: (with Merit), Singapore Polytechnic (SP), Singapore
 ---
 
