@@ -17,7 +17,7 @@ This webpage currently a _work in progress..._
 
 **News**
 
-##### 13 Jul 2021    
+#### 13 Jul 2021    
 
 Co-chairing _Aerial Robots 1_ session on _IEEE/ASME Conference on Advanced Intelligent Mechatronics 2021_
 <!--stackedit_data:
