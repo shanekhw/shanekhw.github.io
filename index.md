@@ -16,7 +16,10 @@ Engineering Product Development Pillar<br>
 This webpage currently a _work in progress..._
 
 **News**
-13 Jul 2021    Co-chairing _Aerial Robots 1_ session on _IEEE/ASME Conference on Advanced Intelligent Mechatronics 2021_
+
+13 Jul 2021    
+
+Co-chairing _Aerial Robots 1_ session on _IEEE/ASME Conference on Advanced Intelligent Mechatronics 2021_
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTMzMzI0Njg5LDM4NDMzODUxMF19
 -->
