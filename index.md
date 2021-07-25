@@ -23,7 +23,15 @@ Co-chairing _Aerial Robots 1_ session on _IEEE/ASME Conference on Advanced Intel
 
 #### 12 Jul 2021
 
-Research journal on _An Agile Samara-Inspired Single-Actuator Aerial Robot capable of Autorotation and Diving_ is published online on _IEEE Transactions on Robotics_ in [_Early Access_](https://ieeexplore.ieee.org/document/9480601). Watch [video](https://youtu.be/h1UJhhoAxVw)
+Research journal on _An Agile Samara-Inspired Single-Actuator Aerial Robot capable of Autorotation and Diving_ is published online on _IEEE Transactions on Robotics_ in [_Early Access_](https://ieeexplore.ieee.org/document/9480601). Watch [video](https://youtu.be/h1UJhhoAxVw).
+
+#### 12 Apr 2021
+
+PhD Thesis titled _Design, Development and Control of Samara-inspired Autorotating Wings for Aerial Payload Deployment_ receives _Design Practice Award_ in _Best Thesis Award 2020, SUTD_.
+
+#### 2 Dec 2020
+
+Research journal on _Design, modelling and control of collaborative samara autorotating wings (SAW)_ gets awarded as [Finalist, Best Paper Awards 2020](https://www.springer.com/journal/41315/updates/18638712) on _International Journal of Intelligent Robotics and Applications_.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTMzMzI0Njg5LDM4NDMzODUxMF19
 -->
