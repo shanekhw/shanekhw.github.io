@@ -1,6 +1,6 @@
 ---
 layout: work
-title: 
+title: Projects
 slug: /projects
 ---
 ## Samara Autorotating Wings (SAW)
@@ -17,9 +17,11 @@ The SAW project takes inspiration from the graceful falling of maple seeds, some
 
 ### Solar-cell Wings
 
-
+![SolarSAW](https://www.dropbox.com/s/1gh7we69kz39be1/SolarSAW.JPG?raw=1)
 
 ### Optimized Glide Slope and Diving Mode
+
+
 
 ## Single Actuator Monocopter (SAM)
 
@@ -29,5 +31,6 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 ### Semi-rigid Foldable Wing Structure
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIyODAwMDcsMjc5MDY3OTE5XX0=
+eyJoaXN0b3J5IjpbMTI1NDM5OTUwOSwtMTI0MjI4MDAwNywyNz
+kwNjc5MTldfQ==
 -->
