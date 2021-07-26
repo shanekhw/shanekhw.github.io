@@ -31,9 +31,13 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 ### Efficient 5-DOF Controllable Flight with Single Actuator
 
+![SAM](https://www.dropbox.com/s/ye4fb12epe6fn4o/ExperiSAM.png?raw=1)
+
 ### Semi-rigid Foldable Wing Structure
+
+Currently a work in progress. Details will be up
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzIxOTk4NzIsLTEyMjc2NTM2NTUsMT
-cyMTQwNTIzMiwxMjU0Mzk5NTA5LC0xMjQyMjgwMDA3LDI3OTA2
-NzkxOV19
+eyJoaXN0b3J5IjpbNjA3MDUzNTYyLC0xMzcyMTk5ODcyLC0xMj
+I3NjUzNjU1LDE3MjE0MDUyMzIsMTI1NDM5OTUwOSwtMTI0MjI4
+MDAwNywyNzkwNjc5MTldfQ==
 -->
