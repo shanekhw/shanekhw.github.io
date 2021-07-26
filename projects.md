@@ -15,7 +15,7 @@ The size and shape of the wing affects how fast the platform rotates, how fast i
  - [The effect of chordwise wing optimization of single-winged samara in autorotation](https://doi.org/10.1109/AIM.2017.8014118) in _IEEE International Conference on Advanced Intelligent Mechatronics 2017_.
  - [Direction controlled descent of Samara Autorotating Wings (SAW) with n-wings](https://doi.org/10.1109/ICRA.2018.8463145) in _IEEE International Conference on Robotics and Automation_.
  - [Design, modelling and control of collaborative Samara Autorotating Wings (SAW)](https://doi.org/10.1007/s41315-019-00091-6) in _International Journal of Intelligent Robotics and Applications, , Vol 3, 144-157, 2019._
- - Dynamics and control of a collaborative and separating descent of samara autorotating wings
+ - [Dynamics and control of a collaborative and separating descent of samara autorotating wings](https://doi.org/10.1109/LRA.2019.2924837) in _IEEE Robotics and Automation Letters, Vol 4(3), 3067-3074, 2019._
  - [An agile samara-inspired single-actuator aerial robot capable of autorotation & diving](https://doi.org/10.1109/TRO.2021.3091275) in _IEEE Transactions on Robotics, Early Access_.
 
 ### Collaborative Units and Mid-Air Separation
@@ -44,7 +44,7 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTU2MzQwLC0xMzcyMTk5ODcyLC0xMj
-I3NjUzNjU1LDE3MjE0MDUyMzIsMTI1NDM5OTUwOSwtMTI0MjI4
-MDAwNywyNzkwNjc5MTldfQ==
+eyJoaXN0b3J5IjpbLTU4NzMwNzAyMywtMTM3MjE5OTg3MiwtMT
+IyNzY1MzY1NSwxNzIxNDA1MjMyLDEyNTQzOTk1MDksLTEyNDIy
+ODAwMDcsMjc5MDY3OTE5XX0=
 -->
