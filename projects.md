@@ -13,7 +13,8 @@ The SAW project takes inspiration from the graceful falling of maple seeds, some
 The size and shape of the wing affects how fast the platform rotates, how fast it drops, its pose and coning angle. Therefore, the wing planform of SAW is carefully chosen in order to achieve the slowest drop speed, a decent rotation speed, which also affects the glide slope that it can achieve. The parameters being chosen include wing length and chord length, with a third order polynomial to ensure the shape remains smooth. A flat plate airfoil is used as the size of the platform is relatively small and the airfoil effects are considered minimal. Blade Element Theory is used to model the platform in 6 degrees-of-freedom free-fall scenarios, with various algorithms such as gradient descent and genetic algorithm are used to find the optimum solution. Various optimization methods are discussed in the following papers.
 
  - [The effect of chordwise wing optimization of single-winged samara in autorotation](https://doi.org/10.1109/AIM.2017.8014118) in _IEEE International Conference on Advanced Intelligent Mechatronics 2017_.
- - [Direction controlled descent of Samara Autorotating Wings (SAW) with n-wings](
+ - [Direction controlled descent of Samara Autorotating Wings (SAW) with n-wings](https://doi.org/10.1109/ICRA.2018.8463145) in _IEEE International Conference on Robotics and Automation_.
+ - [Design, modelling and control of collaborative Samara Autorotating Wings (SAW)](https://doi.org/10.1007/s41315-019-00091-6) in _International Journal of Intelligent Robotics and Applications_
 
 ### Collaborative Units and Mid-Air Separation
 
@@ -41,7 +42,7 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU5NDAzMTIsLTEzNzIxOTk4NzIsLT
-EyMjc2NTM2NTUsMTcyMTQwNTIzMiwxMjU0Mzk5NTA5LC0xMjQy
-MjgwMDA3LDI3OTA2NzkxOV19
+eyJoaXN0b3J5IjpbLTI4ODcxNzAzMCwtMTM3MjE5OTg3MiwtMT
+IyNzY1MzY1NSwxNzIxNDA1MjMyLDEyNTQzOTk1MDksLTEyNDIy
+ODAwMDcsMjc5MDY3OTE5XX0=
 -->
