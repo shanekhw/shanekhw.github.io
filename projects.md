@@ -33,7 +33,7 @@ SAW units can be joined together as a rotor hub, looking rather like a flower. I
 
 Once SAW lands at a designated place, the payload sensor can begin collecting its data. Its service life can be extended indefinitely by integrating solar cells as a multi-functional wing structure. As the solar cells' structure only allow them to be sliced in a specific way, an optimization is performed to find the best place to slice the solar cell, forming the main wing and the flap. More details can be found in -
 
-[Design optimization of flap configuration in samara autorotating wing with multi-functional aerodynamic structure](https://doi.org/10.1109/AIM.2019.8868777) in _IEEE International Conference on Advanced Intelligent Mechatronics 2019_.
+- [Design optimization of flap configuration in samara autorotating wing with multi-functional aerodynamic structure](https://doi.org/10.1109/AIM.2019.8868777) in _IEEE International Conference on Advanced Intelligent Mechatronics 2019_.
 
 ### 4. A Flapless SAW Design
 
@@ -51,7 +51,9 @@ SAW is a platform that uses a single actuator (a flap) and its only driving forc
 
 ![Dive](https://www.dropbox.com/s/m9ni5xbp1cunr7o/Dive.png?raw=1)
 
-One way to tackle adverse weather conditions (which SAW is vulnerable to) is by quickly passing through them. We introduce a new flight mode - the Diving Mode. Using the same flap (so no additional actuators are needed), SAW can be invoked to enter dive at any point during its autorotating flight. And the transition is bi-directional, meaning it can go from autorotation to dive, or the reverse, at any desired instance. The transition is also extremely quick, requiring less than a second for a full transition
+One way to tackle adverse weather conditions (which SAW is vulnerable to) is by quickly passing through them. We introduce a new flight mode - the Diving Mode. Using the same flap (so no additional actuators are needed), SAW can be invoked to enter dive at any point during its autorotating flight. And the transition is bi-directional, meaning it can go from autorotation to dive, or the reverse, at any desired instance. The transition is also extremely quick, requiring less than a second for a full transition. Interesting details on this can be found in -
+
+ - [An agile samara-inspired single-actuator aerial robot capable of autorotation & diving](https://doi.org/10.1109/TRO.2021.3091275) in _IEEE Transactions on Robotics, Early Access_.
 
 ## Single Actuator Monocopter (SAM)
 
@@ -61,12 +63,14 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 ![SAM](https://www.dropbox.com/s/ye4fb12epe6fn4o/ExperiSAM.png?raw=1)
 
+
+
 ### 2. Semi-rigid Foldable Wing Structure
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDIzOTYzOTUsLTQ5MzczNjQzNywtMT
-UyMjE2MTIyNywxMTEyNTgwNTg4LC0xMzcyMTk5ODcyLC0xMjI3
-NjUzNjU1LDE3MjE0MDUyMzIsMTI1NDM5OTUwOSwtMTI0MjI4MD
-AwNywyNzkwNjc5MTldfQ==
+eyJoaXN0b3J5IjpbLTc3OTU2ODk2NSwtNDkzNzM2NDM3LC0xNT
+IyMTYxMjI3LDExMTI1ODA1ODgsLTEzNzIxOTk4NzIsLTEyMjc2
+NTM2NTUsMTcyMTQwNTIzMiwxMjU0Mzk5NTA5LC0xMjQyMjgwMD
+A3LDI3OTA2NzkxOV19
 -->
