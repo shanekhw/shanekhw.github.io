@@ -55,6 +55,8 @@ One way to tackle adverse weather conditions (which SAW is vulnerable to) is by 
 
  - [An agile samara-inspired single-actuator aerial robot capable of autorotation & diving](https://doi.org/10.1109/TRO.2021.3091275) in _IEEE Transactions on Robotics, Early Access_.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1UJhhoAxVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Single Actuator Monocopter (SAM)
 
 The idea to achieve controllable flight with a single actuator is one that is fancied by many and achieved by a few recently. SAM brings flight efficiency and dynamic stability of the craft to the table.
