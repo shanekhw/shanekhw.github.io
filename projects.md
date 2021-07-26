@@ -5,7 +5,7 @@ slug: /projects
 ---
 ## Samara Autorotating Wings (SAW)
 
-The SAW project takes inspiration from the graceful falling of maple seeds, sometimes more fondly known as _helicopter seeds_. The main purpose of SAW platform is for precision aerial deployment of lightweight payloads at a relatively low-cost. It is ideal for applications such as precision reforestation projects, sensor deployments for remote sensing such as detection of natural disasters such as forest fires, flood, or monitoring of wild life, agriculture, gases and chemicals, weather detection and so on. This project has currently been explored in the following four focal points.
+The SAW project takes inspiration from the graceful falling of maple seeds, sometimes more fondly known as _helicopter seeds_. The main purpose of SAW platform is for precision aerial deployment of lightweight payloads at a relatively low-cost. It is ideal for applications such as precision reforestation projects, sensor deployments for remote sensing such as detection of natural disasters such as forest fires, flood, or monitoring of wild life, agriculture, gases and chemicals, weather detection and so on. This project has currently been explored in the following five focal points.
 
 ### 1. Optimized Wing Planform
 
@@ -33,9 +33,11 @@ SAW units can be joined together as a rotor hub, looking rather like a flower. I
 
 Once SAW lands at a designated place, the payload sensor can begin collecting its data. Its service life can be extended indefinitely by integrating solar cells as a multi-functional wing structure. As the solar cells' structure only allow them to be sliced in a specific way, an optimization is performed to find the best place to slice the solar cell, forming the main wing and the flap. More details can be found in -
 
-[Design optimization of flap configuration in samara autorotating wing with multi-functional aerodynamic structure](https://doi.org/10.1109/AIM.2019.8868777) in _IEEE International Conference on Advanced Intelligent Mechatronics 2017_.
+[Design optimization of flap configuration in samara autorotating wing with multi-functional aerodynamic structure](https://doi.org/10.1109/AIM.2019.8868777) in _IEEE International Conference on Advanced Intelligent Mechatronics 2019_.
 
-### 4. Optimized Glide Slope and Diving Mode
+### 4. A flaple
+
+### 5. Optimized Glide Slope and Diving Mode
 
 ![GlideSlope](https://www.dropbox.com/s/0rph0w03cdo3wlp/GlideSlope.png?raw=1)
 
@@ -53,7 +55,7 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzM5OTkyNCwtMTUyMjE2MTIyNywxMT
+eyJoaXN0b3J5IjpbMTM3ODU4ODg5NSwtMTUyMjE2MTIyNywxMT
 EyNTgwNTg4LC0xMzcyMTk5ODcyLC0xMjI3NjUzNjU1LDE3MjE0
 MDUyMzIsMTI1NDM5OTUwOSwtMTI0MjI4MDAwNywyNzkwNjc5MT
 ldfQ==
