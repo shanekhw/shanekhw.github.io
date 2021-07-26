@@ -47,6 +47,8 @@ An alternative to using a flap for glide trajectory control of SAW is explored b
 
 ![GlideSlope](https://www.dropbox.com/s/0rph0w03cdo3wlp/GlideSlope.png?raw=1)
 
+
+
 ![Dive](https://www.dropbox.com/s/m9ni5xbp1cunr7o/Dive.png?raw=1)
 
 
@@ -63,7 +65,7 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjAwOTc1MywtMTUyMjE2MTIyNywxMT
+eyJoaXN0b3J5IjpbLTQ5MzczNjQzNywtMTUyMjE2MTIyNywxMT
 EyNTgwNTg4LC0xMzcyMTk5ODcyLC0xMjI3NjUzNjU1LDE3MjE0
 MDUyMzIsMTI1NDM5OTUwOSwtMTI0MjI4MDAwNywyNzkwNjc5MT
 ldfQ==
