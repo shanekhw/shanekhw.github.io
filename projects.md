@@ -10,7 +10,7 @@ The SAW project takes inspiration from the graceful falling of maple seeds, some
 ### Optimized Wing Planform
 
 ![Maple seed and SAWs](https://www.dropbox.com/s/lzkwshrs600lvqu/Cover.jpg?raw=1)
-The size and shape of the wing affects how fast the platform rotates, how fast it drops, its pose and coning angle. 
+The size and shape of the wing affects how fast the platform rotates, how fast it drops, its pose and coning angle. Therefore, the wing planform of SAW is carefully chosen in order to achieve the slowest drop speed, a decent rotation speed 
 
 ### Collaborative Units and Mid-Air Separation
 
@@ -38,7 +38,7 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODU4MDE5MSwtMTM3MjE5OTg3MiwtMT
-IyNzY1MzY1NSwxNzIxNDA1MjMyLDEyNTQzOTk1MDksLTEyNDIy
-ODAwMDcsMjc5MDY3OTE5XX0=
+eyJoaXN0b3J5IjpbLTE0NzkyNTcyOTksLTEzNzIxOTk4NzIsLT
+EyMjc2NTM2NTUsMTcyMTQwNTIzMiwxMjU0Mzk5NTA5LC0xMjQy
+MjgwMDA3LDI3OTA2NzkxOV19
 -->
