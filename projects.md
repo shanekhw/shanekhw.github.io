@@ -23,7 +23,7 @@ The SAW project takes inspiration from the graceful falling of maple seeds, some
 
 ![GlideSlope](https://www.dropbox.com/s/0rph0w03cdo3wlp/GlideSlope.png?raw=1)
 
-![Dive](https://www.dropbox.com/s/2530r9wiyd4mcbz/Dive.png?raw=1)
+![Dive](https://www.dropbox.com/s/m9ni5xbp1cunr7o/Dive.png?raw=1)
 
 ## Single Actuator Monocopter (SAM)
 
@@ -33,6 +33,7 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 ### Semi-rigid Foldable Wing Structure
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc2NTM2NTUsMTcyMTQwNTIzMiwxMj
-U0Mzk5NTA5LC0xMjQyMjgwMDA3LDI3OTA2NzkxOV19
+eyJoaXN0b3J5IjpbLTEzNzIxOTk4NzIsLTEyMjc2NTM2NTUsMT
+cyMTQwNTIzMiwxMjU0Mzk5NTA5LC0xMjQyMjgwMDA3LDI3OTA2
+NzkxOV19
 -->
