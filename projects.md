@@ -31,7 +31,7 @@ SAW units can be joined together as a rotor hub, looking rather like a flower. I
 
 ![SolarSAW](https://www.dropbox.com/s/1gh7we69kz39be1/SolarSAW.JPG?raw=1)
 
-Once SAW lands at a designated place, the payload sensor can begin collecting its data. T
+Once SAW lands at a designated place, the payload sensor can begin collecting its data. Its service life can be extended indefinitely by integrating solar cells as a multi-functional wing structure. A microphone 
 
 ### 4. Optimized Glide Slope and Diving Mode
 
@@ -51,8 +51,8 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxODI2MzEyLC0xNTIyMTYxMjI3LDExMT
-I1ODA1ODgsLTEzNzIxOTk4NzIsLTEyMjc2NTM2NTUsMTcyMTQw
-NTIzMiwxMjU0Mzk5NTA5LC0xMjQyMjgwMDA3LDI3OTA2NzkxOV
-19
+eyJoaXN0b3J5IjpbLTEzMTM0NjE0MDMsLTE1MjIxNjEyMjcsMT
+ExMjU4MDU4OCwtMTM3MjE5OTg3MiwtMTIyNzY1MzY1NSwxNzIx
+NDA1MjMyLDEyNTQzOTk1MDksLTEyNDIyODAwMDcsMjc5MDY3OT
+E5XX0=
 -->
