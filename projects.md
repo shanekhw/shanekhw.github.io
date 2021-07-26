@@ -47,7 +47,7 @@ An alternative to using a flap for glide trajectory control of SAW is explored b
 
 ![GlideSlope](https://www.dropbox.com/s/0rph0w03cdo3wlp/GlideSlope.png?raw=1)
 
-SAW is a platform that uses a single actuator (a flap) and its only driving force is gravity. This puts SAW in the same category as other platforms relying on gravitational potential energy to make their journey, such as parafoils and gliders. Unlike the parafoils and gliders which may use two or more actuators, SAW only uses one. We attempt to a
+SAW is a platform that uses a single actuator (a flap) and its only driving force is gravity. This puts SAW in the same category as other platforms relying on gravitational potential energy to make their journey, such as parafoils and gliders. Unlike the parafoils and gliders which may use two or more actuators, SAW only uses one. We attempt to achieve the maximum potential of SAW platform, striving to achieve the best glide 
 
 ![Dive](https://www.dropbox.com/s/m9ni5xbp1cunr7o/Dive.png?raw=1)
 
@@ -65,8 +65,8 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzYzMzc4NiwtNDkzNzM2NDM3LC0xNT
-IyMTYxMjI3LDExMTI1ODA1ODgsLTEzNzIxOTk4NzIsLTEyMjc2
-NTM2NTUsMTcyMTQwNTIzMiwxMjU0Mzk5NTA5LC0xMjQyMjgwMD
-A3LDI3OTA2NzkxOV19
+eyJoaXN0b3J5IjpbMjA5NTgxMDk4LC00OTM3MzY0MzcsLTE1Mj
+IxNjEyMjcsMTExMjU4MDU4OCwtMTM3MjE5OTg3MiwtMTIyNzY1
+MzY1NSwxNzIxNDA1MjMyLDEyNTQzOTk1MDksLTEyNDIyODAwMD
+csMjc5MDY3OTE5XX0=
 -->
