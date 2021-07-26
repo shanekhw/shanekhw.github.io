@@ -23,6 +23,7 @@ The size and shape of the wing affects how fast the platform rotates, how fast i
 
 ![Experiment](https://www.dropbox.com/s/ff0ps2mojtno1a7/Experiment.jpg?raw=1)
 
+
 ### 3. Solar-cell Wings
 
 ![SolarSAW](https://www.dropbox.com/s/1gh7we69kz39be1/SolarSAW.JPG?raw=1)
@@ -45,7 +46,7 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDY2MzA4NywxMTEyNTgwNTg4LC0xMz
-cyMTk5ODcyLC0xMjI3NjUzNjU1LDE3MjE0MDUyMzIsMTI1NDM5
-OTUwOSwtMTI0MjI4MDAwNywyNzkwNjc5MTldfQ==
+eyJoaXN0b3J5IjpbMTEwOTYwMjU1LDExMTI1ODA1ODgsLTEzNz
+IxOTk4NzIsLTEyMjc2NTM2NTUsMTcyMTQwNTIzMiwxMjU0Mzk5
+NTA5LC0xMjQyMjgwMDA3LDI3OTA2NzkxOV19
 -->
