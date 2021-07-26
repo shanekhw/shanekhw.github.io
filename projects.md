@@ -63,14 +63,14 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 ![SAM](https://www.dropbox.com/s/ye4fb12epe6fn4o/ExperiSAM.png?raw=1)
 
-Monocopters have so far used two actuators to achieve flight and control, a thrust unit and a flap. In this work, we use only the thrust unit to achieve 
+Monocopters have so far used two actuators to achieve flight and control, a thrust unit and a flap. In this work, we use only the thrust unit to achieve both. By changing the thrust in a certain manner during each cycle of rotation, SAM can translate vertically and laterally. 
 
 ### 2. Semi-rigid Foldable Wing Structure
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDM4NTgzMiwtNzc5NTY4OTY1LC00OT
-M3MzY0MzcsLTE1MjIxNjEyMjcsMTExMjU4MDU4OCwtMTM3MjE5
-OTg3MiwtMTIyNzY1MzY1NSwxNzIxNDA1MjMyLDEyNTQzOTk1MD
-ksLTEyNDIyODAwMDcsMjc5MDY3OTE5XX0=
+eyJoaXN0b3J5IjpbNzgyOTIxODc5LC03Nzk1Njg5NjUsLTQ5Mz
+czNjQzNywtMTUyMjE2MTIyNywxMTEyNTgwNTg4LC0xMzcyMTk5
+ODcyLC0xMjI3NjUzNjU1LDE3MjE0MDUyMzIsMTI1NDM5OTUwOS
+wtMTI0MjI4MDAwNywyNzkwNjc5MTldfQ==
 -->
