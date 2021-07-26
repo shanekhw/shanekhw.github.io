@@ -5,7 +5,7 @@ slug: /projects
 ---
 ### Samara Autorotating Wings (SAW)
 
-The SAW project takes inspiration from the graceful falling of maple seeds, sometimes more fondly known as _helicopter seeds_. This project has currently been explored in the following four focal points.
+The SAW project takes inspiration from the graceful falling of maple seeds, sometimes more fondly known as _helicopter seeds_. The main purpose of SAW platform is for precision aerial deployment of lightweight payloads at a relatively low-cost. It is ideal for applications such as precision reforestation projects, sensor deployments for remote sensing such as detection of natural disasters such as forest fires, flood, or monitoring of wild life, agriculture, gases and chemicals, weather detection and so on. This project has currently been explored in the following four focal points.
 
 #### Optimized Wing Planform
 
