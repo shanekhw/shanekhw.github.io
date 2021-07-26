@@ -9,6 +9,8 @@ The SAW project takes inspiration from the graceful falling of maple seeds, some
 
 ### Optimized Wing Planform
 
+![Maple seed and SAWs](https://www.dropbox.com/s/lzkwshrs600lvqu/Cover.jpg?raw=1)
+
 ### Collaborative Units and Mid-Air Separation
 
 ### Solar-cell Wings
@@ -22,3 +24,6 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 ### Efficient 5-DOF Controllable Flight with Single Actuator
 
 ### Semi-rigid Foldable Wing Structure
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjc5MDY3OTE5XX0=
+-->
