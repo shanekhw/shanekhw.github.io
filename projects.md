@@ -39,7 +39,7 @@ Once SAW lands at a designated place, the payload sensor can begin collecting it
 
 ![Flapless SAW](https://www.dropbox.com/s/96inldjmmmpsrzg/Flapless%20SAW.png?raw=1)
 
-An alternative to using a flap for glide trajectory control of SAW is explored by using a thrust 
+An alternative to using a flap for glide trajectory control of SAW is explored by using a thrust unit. The thrust unit can provide a precise and directional forces, which can be used to effectively change the tip path plane of the autorotating platform. The optimum location of the thrust unit is found via the use of Genetic Algorithm, 
 
 ### 5. Optimized Glide Slope and Diving Mode
 
@@ -59,8 +59,8 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI1Mzk3MTMsLTE1MjIxNjEyMjcsMT
-ExMjU4MDU4OCwtMTM3MjE5OTg3MiwtMTIyNzY1MzY1NSwxNzIx
-NDA1MjMyLDEyNTQzOTk1MDksLTEyNDIyODAwMDcsMjc5MDY3OT
-E5XX0=
+eyJoaXN0b3J5IjpbLTQ5NDM0OTM1OSwtMTUyMjE2MTIyNywxMT
+EyNTgwNTg4LC0xMzcyMTk5ODcyLC0xMjI3NjUzNjU1LDE3MjE0
+MDUyMzIsMTI1NDM5OTUwOSwtMTI0MjI4MDAwNywyNzkwNjc5MT
+ldfQ==
 -->
