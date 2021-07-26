@@ -8,6 +8,11 @@ items:
       src: /assets/img/work/sutd_square.png
       alt: SUTD
     description: October 2020 - Present<br>Aerial Innovations and Research Lab, Temasek Labs<br>Singapore University of Technology and Design (SUTD), Singapore
+  - title: Visiting PhD Scholar<br>
+    image:
+      src: /assets/img/work/aalto.png
+      alt: Aalto
+    description: Mar 2020<br>School of Engineering, Helsinki, Finland
   - title: Mechanical Engineer<br>
     image:
       src: /assets/img/work/hopetechnik.png
