@@ -13,7 +13,6 @@ Research Fellow<br>
 Engineering Product Development Pillar<br>
 <a href="https://sutd.edu.sg/">Singapore University of Technology and Design</a> 
 
-This webpage currently a _work in progress..._
 
 **News**
 
