@@ -23,10 +23,15 @@ The size and shape of the wing affects how fast the platform rotates, how fast i
 
 ![Experiment](https://www.dropbox.com/s/ff0ps2mojtno1a7/Experiment.jpg?raw=1)
 
-SAW units can be joined together as a rotor hub, looking rather like a flower. In this configuration, they can collaboratively work together, achieving better resilience as tough wind conditions. At a desired altitude, the units can exit the collaborated form, splitting to individual units and continuing their trajectory towards each respective landing locations. To achieve this, a unique de-centralized separation mechanism is designed, the separation manoeuvre is first simulated and then verified in an 
+SAW units can be joined together as a rotor hub, looking rather like a flower. In this configuration, they can collaboratively work together, achieving better resilience as tough wind conditions. At a desired altitude, the units can exit the collaborated form, splitting to individual units and continuing their trajectory towards each respective landing locations. To achieve this, a unique de-centralized separation mechanism is designed, the separation manoeuvre is first simulated and then verified in a special experiment setup. More details can be found in -
+
+ - [Dynamics and control of a collaborative and separating descent of samara autorotating wings](https://doi.org/10.1109/LRA.2019.2924837) in _IEEE Robotics and Automation Letters, Vol 4(3), 3067-3074, 2019._
+
 ### 3. Solar-cell Wings
 
 ![SolarSAW](https://www.dropbox.com/s/1gh7we69kz39be1/SolarSAW.JPG?raw=1)
+
+Once SAW lands at a designated place, the payload sensor can begin collecting its data. T
 
 ### 4. Optimized Glide Slope and Diving Mode
 
@@ -46,8 +51,8 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMzODY1NjMsLTE1MjIxNjEyMjcsMT
-ExMjU4MDU4OCwtMTM3MjE5OTg3MiwtMTIyNzY1MzY1NSwxNzIx
-NDA1MjMyLDEyNTQzOTk1MDksLTEyNDIyODAwMDcsMjc5MDY3OT
-E5XX0=
+eyJoaXN0b3J5IjpbMjMxODI2MzEyLC0xNTIyMTYxMjI3LDExMT
+I1ODA1ODgsLTEzNzIxOTk4NzIsLTEyMjc2NTM2NTUsMTcyMTQw
+NTIzMiwxMjU0Mzk5NTA5LC0xMjQyMjgwMDA3LDI3OTA2NzkxOV
+19
 -->
