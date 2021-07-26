@@ -51,7 +51,7 @@ SAW is a platform that uses a single actuator (a flap) and its only driving forc
 
 ![Dive](https://www.dropbox.com/s/m9ni5xbp1cunr7o/Dive.png?raw=1)
 
-One way to tackle adverse weather conditions (which SAW is vulnerable to) is by quickly passing through them. We 
+One way to tackle adverse weather conditions (which SAW is vulnerable to) is by quickly passing through them. We introduce a new flight mode - the Diving Mode. Using the same flap (so no additional actuators are needed), SAW can be invoked to enter dive at any point during its autorotating flight. And the transition is bi-directional, meaning it can go from autorotation to dive, or the reverse, at any desired instance. The transition is also extremely quick, requiring less than a second for a full transition
 
 ## Single Actuator Monocopter (SAM)
 
@@ -65,7 +65,7 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjMzOTc1MjcsLTQ5MzczNjQzNywtMT
+eyJoaXN0b3J5IjpbLTIwNDIzOTYzOTUsLTQ5MzczNjQzNywtMT
 UyMjE2MTIyNywxMTEyNTgwNTg4LC0xMzcyMTk5ODcyLC0xMjI3
 NjUzNjU1LDE3MjE0MDUyMzIsMTI1NDM5OTUwOSwtMTI0MjI4MD
 AwNywyNzkwNjc5MTldfQ==
