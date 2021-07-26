@@ -65,14 +65,14 @@ The idea to achieve controllable flight with a single actuator is one that is fa
 
 Monocopters have so far used two actuators to achieve flight and control, a thrust unit and a flap. In this work, we use only the thrust unit to achieve both. By changing the thrust in a certain manner during each cycle of rotation, SAM can translate vertically and laterally. As compared to other single-actuator UAVs, SAM has much higher flight efficiency as the wing helps in producing useful aerodynamic lift and provides passive stability. The wing planform and location of the thrust unit is optimised to achieve the best performance. Simulations and experiment results can be found in -
 
-- [Achieving efficient controlled flight with a single actuator](
+- [Achieving efficient controlled flight with a single actuator](https://doi.org/10.1109/AIM43001.2020.9159008) in _IEEE International Conference on Advanced Intelligent Mechatronics 2020_.
 
 ### 2. Semi-rigid Foldable Wing Structure
 
 Currently a work in progress. Details will be updated at a later stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzIxNjAwNywtNzc5NTY4OTY1LC00OT
-M3MzY0MzcsLTE1MjIxNjEyMjcsMTExMjU4MDU4OCwtMTM3MjE5
-OTg3MiwtMTIyNzY1MzY1NSwxNzIxNDA1MjMyLDEyNTQzOTk1MD
-ksLTEyNDIyODAwMDcsMjc5MDY3OTE5XX0=
+eyJoaXN0b3J5IjpbLTEwNzE1NzAyNTksLTc3OTU2ODk2NSwtND
+kzNzM2NDM3LC0xNTIyMTYxMjI3LDExMTI1ODA1ODgsLTEzNzIx
+OTk4NzIsLTEyMjc2NTM2NTUsMTcyMTQwNTIzMiwxMjU0Mzk5NT
+A5LC0xMjQyMjgwMDA3LDI3OTA2NzkxOV19
 -->
