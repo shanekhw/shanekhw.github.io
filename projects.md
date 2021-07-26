@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Projects
+title: 
 slug: /projects
 ---
 ## Samara Autorotating Wings (SAW)
