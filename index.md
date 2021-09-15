@@ -20,6 +20,10 @@ Engineering Product Development Pillar<br>
 
 **News**
 
+#### 9 Sep 2021
+
+Journal titled 'Design and control of the first foldable single-actuator rotary wing micro aerial vehicle' gets formal acceptance to be published in _Bioinspiration & Biomimetics_.
+
 #### 13 Jul 2021    
 
 Co-chairing _Aerial Robots 1_ session on _IEEE/ASME Conference on Advanced Intelligent Mechatronics 2021_
