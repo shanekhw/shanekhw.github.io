@@ -20,6 +20,10 @@ Engineering Product Development Pillar<br>
 
 **News**
 
+#### 1 Nov 2021
+
+Journal titled 'Design and control of the first foldable single-actuator rotary wing micro aerial vehicle' goes online in Bioinspiration & Biomimetics [_Latest Articles_](https://iopscience.iop.org/article/10.1088/1748-3190/ac253a).
+
 #### 9 Sep 2021
 
 Journal titled 'Design and control of the first foldable single-actuator rotary wing micro aerial vehicle' gets formal acceptance to be published in _Bioinspiration & Biomimetics_.
