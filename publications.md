@@ -5,7 +5,7 @@ slug: /publications
 ---
 
 ### Journal Articles
-- **S.K.H. Win**, L.S.T. Win, D. Sufiyan, S. Foong, "Design and control of the first foldable single-actuator rotary wing micro aerial vehicle," _Bioinspiration & Biomimetics_, Vol 16(6), 2021. ([article](https://iopscience.iop.org/article/10.1088/1748-3190/ac253a))
+- **S.K.H. Win**, L.S.T. Win, D. Sufiyan, S. Foong, "Design and control of the first foldable single-actuator rotary wing micro aerial vehicle," _Bioinspiration & Biomimetics_, Vol 16(6), 2021. ([article](https://iopscience.iop.org/article/10.1088/1748-3190/ac253a), [video](https://youtu.be/K0POjjIC5xs))
 - **S.K.H. Win**, L.S.T. Win, D. Sufiyan, G.S. Soh, S. Foong, “An agile samara-inspired single-actuator aerial robot capable of autorotation & diving,” _IEEE Transactions on Robotics_, 2021. ([article](https://doi.org/10.1109/TRO.2021.3091275), [video](https://youtu.be/h1UJhhoAxVw))
 - D. Sufiyan, L.S.T. Win, **S.K.H. Win**, G.S. Soh, S. Foong, “Joint Mechanical Design and Flight Control Optimization of a Nature-Inspired Unmanned Aerial Vehicle via Collaborative Co-Evolution,” _IEEE Robotics and Automation Letters,_ Vol 6(2), 2044-2051, 2021. ([article](https://doi.org/10.1109/LRA.2021.3061081), [video](https://youtu.be/zcgfxomweM0))
 - **S.K.H. Win**, L.S.T. Win, D. Sufiyan, G.S. Soh, S. Foong, “Dynamics and control of a collaborative and separating descent of samara autorotating wings,” _IEEE Robotics and Automation Letters_, Vol 4(3), 3067-3074, 2019. ([article](https://doi.org/10.1109/LRA.2019.2924837), [video](https://youtu.be/B74ovD-iJCU))
