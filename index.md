@@ -28,6 +28,10 @@ Journal titled 'Design and control of the first foldable single-actuator rotary 
 
 Journal titled 'Design and control of the first foldable single-actuator rotary wing micro aerial vehicle' gets formal acceptance to be published in _Bioinspiration & Biomimetics_.
 
+#### 7 Aug 2021
+
+Shane's research work on diving Samara Autorotating Wing (dSAW) gets featured on _[Hackaday](https://hackaday.com)_ as article titled "Helicopter seed robot can also drop like a rock". Read [here](https://hackaday.com/2021/08/07/helicopter-seed-robot-can-also-drop-like-a-rock/)!
+
 #### 13 Jul 2021    
 
 Co-chairing _Aerial Robots 1_ session on _IEEE/ASME Conference on Advanced Intelligent Mechatronics 2021_
@@ -43,6 +47,14 @@ PhD Thesis titled _Design, Development and Control of Samara-inspired Autorotati
 #### 2 Dec 2020
 
 Research journal on _Design, modelling and control of collaborative samara autorotating wings (SAW)_ gets awarded as [Finalist, Best Paper Awards 2020](https://www.springer.com/journal/41315/updates/18638712) on _International Journal of Intelligent Robotics and Applications_.
+
+#### 8 Jul 2019
+
+Shane's research work on Samara Autorotating Wing (SAW) is featured on _[IEEE Spectrum](https://spectrum.ieee.org)_ as an article titled "Watch this drone explode in to maple seed microdrones in midair". Read [here](https://spectrum.ieee.org/watch-this-drone-explode-into-maple-seed-microdrones-in-midair)!
+
+The same work is also featured on _[hackster.io](https://www.hackster.io)_ as an article titled "Samara-inspired drone can break into smaller drones for increased travel distance". Read [here](https://www.hackster.io/news/samara-inspired-drone-can-break-into-smaller-drones-for-increased-travel-distance-4967c9f17ade)!
+
+Also on _(dronebelow)[https://dronebelow.com]_ as article titled "Bio-inspired drone splits into five mini-drones mid-air". Read [here](https://dronebelow.com/2019/07/16/bio-inspired-drone-splits-into-five-mini-drones-mid-air/)!
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTMzMzI0Njg5LDM4NDMzODUxMF19
 -->
