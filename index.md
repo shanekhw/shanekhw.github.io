@@ -34,7 +34,7 @@ Shane's research work on diving Samara Autorotating Wing (dSAW) gets featured on
 
 #### 13 Jul 2021    
 
-Co-chairing _Aerial Robots 1_ session on _IEEE/ASME Conference on Advanced Intelligent Mechatronics 2021_
+Co-chairing _Aerial Robots 1_ session on _IEEE/ASME Conference on Advanced Intelligent Mechatronics 2021_.
 
 #### 12 Jul 2021
 
