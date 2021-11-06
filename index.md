@@ -54,7 +54,7 @@ Shane's research work on Samara Autorotating Wing (SAW) is featured on _[IEEE Sp
 
 The same work is also featured on _[hackster.io](https://www.hackster.io)_ as an article titled "Samara-inspired drone can break into smaller drones for increased travel distance". Read [here](https://www.hackster.io/news/samara-inspired-drone-can-break-into-smaller-drones-for-increased-travel-distance-4967c9f17ade)!
 
-Also on _(dronebelow)[https://dronebelow.com]_ as article titled "Bio-inspired drone splits into five mini-drones mid-air". Read [here](https://dronebelow.com/2019/07/16/bio-inspired-drone-splits-into-five-mini-drones-mid-air/)!
+Also on _[dronebelow](https://dronebelow.com)_ as article titled "Bio-inspired drone splits into five mini-drones mid-air". Read [here](https://dronebelow.com/2019/07/16/bio-inspired-drone-splits-into-five-mini-drones-mid-air/)!
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTMzMzI0Njg5LDM4NDMzODUxMF19
 -->
