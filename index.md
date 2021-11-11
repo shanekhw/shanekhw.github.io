@@ -24,6 +24,8 @@ Engineering Product Development Pillar<br>
 
 Shane's research work on Foldable Single Actuator Monocopter (F-SAM) gets featured on _[IEEE Spectrum](https://spectrum.ieee.org)_ as article titled "Flexible monocopter drone can be completely rolled up". Read [here](https://spectrum.ieee.org/foldable-monocopter-drone)!
 
+It is also featured on _[hackster.io](https://www.hackster.io)_ as an article titled "Seed-inspired monocopter drone folds up tiny for transit then flies autonomously with a single rotor". Read [here](https://www.hackster.io/news/seed-inspired-monocopter-drone-folds-up-tiny-for-transit-then-flies-autonomously-with-a-single-rotor-b605218ea456)!
+
 #### 1 Nov 2021
 
 Journal titled 'Design and control of the first foldable single-actuator rotary wing micro aerial vehicle' goes online in Bioinspiration & Biomimetics [_Latest Articles_](https://iopscience.iop.org/article/10.1088/1748-3190/ac253a).
