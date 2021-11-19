@@ -20,6 +20,12 @@ Engineering Product Development Pillar<br>
 
 **News**
 
+#### 18 Nov 2021
+
+Shane's research work on Foldable Single Actuator Monocopter (F-SAM) gets featured on _[Popular Science](https://www.popsci.com)_ as article titled [Watch this tiny spinning drone fly like a samara seed](https://www.popsci.com/technology/monocopter-f-sam-drone/).
+
+In the past week, it is also featured on several technology news sites in various countries including [Drone DJ](https://dronedj.com/2021/11/12/monocopter-drone/), [Mashable](https://mashable.com/video/small-foldable-drone), [Nazology (Japan)](https://nazology.net/archives/99822/2), [Jiqizhixin (Chinese)](https://www.jiqizhixin.com/articles/2021-11-13-3), [3D News (Russia)](https://3dnews.ru/1053573/predstavlen-gibkiy-dron-kotoriy-mogno-svernut-v-trubochku), [PortalTele (Ukraine)](https://portaltele.com.ua/equipment/videosposterezhennya/predstavlenyj-gnuchkyj-dron-yakyj-mozhna-zgornuty-v-trubochku-1.html), and [DroneWatch (Netherlands)](https://www.dronewatch.nl/2021/11/16/deze-drone-is-oprolbaar-en-vliegt-als-een-esdoornzaadje/).
+
 #### 11 Nov 2021
 
 Shane's research work on Foldable Single Actuator Monocopter (F-SAM) gets featured on _[IEEE Spectrum](https://spectrum.ieee.org)_ as article titled "Flexible monocopter drone can be completely rolled up". Read [here](https://spectrum.ieee.org/foldable-monocopter-drone)!
