@@ -28,13 +28,13 @@ In the past week, it is also featured on several technology news sites in variou
 
 #### 11 Nov 2021
 
-Shane's research work on Foldable Single Actuator Monocopter (F-SAM) gets featured on _[IEEE Spectrum](https://spectrum.ieee.org)_ as article titled "Flexible monocopter drone can be completely rolled up". Read [here](https://spectrum.ieee.org/foldable-monocopter-drone)!
+Shane's research work on Foldable Single Actuator Monocopter (F-SAM) gets featured on _[IEEE Spectrum](https://spectrum.ieee.org)_ as article titled [Flexible monocopter drone can be completely rolled up](https://spectrum.ieee.org/foldable-monocopter-drone).
 
-It is also featured on _[hackster.io](https://www.hackster.io)_ as an article titled "Seed-inspired monocopter drone folds up tiny for transit then flies autonomously with a single rotor". Read [here](https://www.hackster.io/news/seed-inspired-monocopter-drone-folds-up-tiny-for-transit-then-flies-autonomously-with-a-single-rotor-b605218ea456)!
+It is also featured on _[hackster.io](https://www.hackster.io)_ as an article titled [Seed-inspired monocopter drone folds up tiny for transit then flies autonomously with a single rotor](https://www.hackster.io/news/seed-inspired-monocopter-drone-folds-up-tiny-for-transit-then-flies-autonomously-with-a-single-rotor-b605218ea456).
 
 #### 1 Nov 2021
 
-Journal titled 'Design and control of the first foldable single-actuator rotary wing micro aerial vehicle' goes online in Bioinspiration & Biomimetics [_Latest Articles_](https://iopscience.iop.org/article/10.1088/1748-3190/ac253a).
+Journal titled [Design and control of the first foldable single-actuator rotary wing micro aerial vehicle](https://iopscience.iop.org/article/10.1088/1748-3190/ac253a) goes online in Bioinspiration & Biomimetics _Latest Articles_.
 
 #### 9 Sep 2021
 
@@ -42,7 +42,7 @@ Journal titled 'Design and control of the first foldable single-actuator rotary 
 
 #### 7 Aug 2021
 
-Shane's research work on diving Samara Autorotating Wing (dSAW) gets featured on _[Hackaday](https://hackaday.com)_ as article titled "Helicopter seed robot can also drop like a rock". Read [here](https://hackaday.com/2021/08/07/helicopter-seed-robot-can-also-drop-like-a-rock/)!
+Shane's research work on diving Samara Autorotating Wing (dSAW) gets featured on _[Hackaday](https://hackaday.com)_ as article titled [Helicopter seed robot can also drop like a rock](https://hackaday.com/2021/08/07/helicopter-seed-robot-can-also-drop-like-a-rock/).
 
 #### 13 Jul 2021    
 
@@ -50,7 +50,7 @@ Co-chairing _Aerial Robots 1_ session on _IEEE/ASME Conference on Advanced Intel
 
 #### 12 Jul 2021
 
-Research journal on _An Agile Samara-Inspired Single-Actuator Aerial Robot capable of Autorotation and Diving_ is published online on _IEEE Transactions on Robotics_ in [_Early Access_](https://ieeexplore.ieee.org/document/9480601). Watch [video](https://youtu.be/h1UJhhoAxVw).
+Research journal on [_An Agile Samara-Inspired Single-Actuator Aerial Robot capable of Autorotation and Diving_](https://ieeexplore.ieee.org/document/9480601) is published online on _IEEE Transactions on Robotics_ in _Early Access_. Watch [video](https://youtu.be/h1UJhhoAxVw).
 
 #### 12 Apr 2021
 
@@ -62,11 +62,11 @@ Research journal on _Design, modelling and control of collaborative samara autor
 
 #### 8 Jul 2019
 
-Shane's research work on Samara Autorotating Wing (SAW) is featured on _[IEEE Spectrum](https://spectrum.ieee.org)_ as an article titled "Watch this drone explode in to maple seed microdrones in midair". Read [here](https://spectrum.ieee.org/watch-this-drone-explode-into-maple-seed-microdrones-in-midair)!
+Shane's research work on Samara Autorotating Wing (SAW) is featured on _[IEEE Spectrum](https://spectrum.ieee.org)_ as an article titled [Watch this drone explode in to maple seed microdrones in midair](https://spectrum.ieee.org/watch-this-drone-explode-into-maple-seed-microdrones-in-midair).
 
-The same work is also featured on _[hackster.io](https://www.hackster.io)_ as an article titled "Samara-inspired drone can break into smaller drones for increased travel distance". Read [here](https://www.hackster.io/news/samara-inspired-drone-can-break-into-smaller-drones-for-increased-travel-distance-4967c9f17ade)!
+The same work is also featured on _[hackster.io](https://www.hackster.io)_ as an article titled [Samara-inspired drone can break into smaller drones for increased travel distance](https://www.hackster.io/news/samara-inspired-drone-can-break-into-smaller-drones-for-increased-travel-distance-4967c9f17ade).
 
-Also on _[dronebelow](https://dronebelow.com)_ as article titled "Bio-inspired drone splits into five mini-drones mid-air". Read [here](https://dronebelow.com/2019/07/16/bio-inspired-drone-splits-into-five-mini-drones-mid-air/)!
+Also on _[dronebelow](https://dronebelow.com)_ as article titled [Bio-inspired drone splits into five mini-drones mid-air](https://dronebelow.com/2019/07/16/bio-inspired-drone-splits-into-five-mini-drones-mid-air/).
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTMzMzI0Njg5LDM4NDMzODUxMF19
 -->
