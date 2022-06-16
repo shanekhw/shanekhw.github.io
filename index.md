@@ -20,6 +20,10 @@ Engineering Product Development Pillar<br>
 
 **News**
 
+#### 26 May 2022
+
+Shane's co-authored research titled 'Cooperative Modular Single Actuator Monocopters capable of Controlled Passive Separation' wins the 'Outstanding Dynamics and Control Award' at _IEEE International Conference on Robotics and Automation (ICRA) 2022_!
+
 #### 18 Nov 2021
 
 Shane's research work on Foldable Single Actuator Monocopter (F-SAM) gets featured on _[Popular Science](https://www.popsci.com)_ as article titled [Watch this tiny spinning drone fly like a samara seed](https://www.popsci.com/technology/monocopter-f-sam-drone/).
