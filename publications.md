@@ -5,6 +5,7 @@ slug: /publications
 ---
 
 ### Journal Articles
+- Y.H. Pheh, **S.K.H. Win**, S. Foong, "Spherical Indoor Coanda Effect Drone (SpICED): A spherical blimp sUAS for Safe Indoor Use," _Drones_, 2022. (Accepted)
 - H. Bhardwaj, X. Cai, **S.K.H. Win**, S. Foong, "Design, modeling and control of a two flight mode capable single wing rotorcraft with mid-air transition capability," _IEEE Robotics and Automation Letters_, Early Access, 2022. ([article](https://doi.org/10.1109/LRA.2022.3205454))
 - **S.K.H. Win**, L.S.T. Win, D. Sufiyan, S. Foong, "Design and control of the first foldable single-actuator rotary wing micro aerial vehicle," _Bioinspiration & Biomimetics_, Vol 16(6), 2021. ([article](https://iopscience.iop.org/article/10.1088/1748-3190/ac253a), [video](https://youtu.be/K0POjjIC5xs))
 - **S.K.H. Win**, L.S.T. Win, D. Sufiyan, G.S. Soh, S. Foong, “An agile samara-inspired single-actuator aerial robot capable of autorotation & diving,” _IEEE Transactions on Robotics_, 2021. ([article](https://doi.org/10.1109/TRO.2021.3091275), [video](https://youtu.be/h1UJhhoAxVw))
