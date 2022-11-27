@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/Shane_400x600.jpg
+  src: /assets/img/Shane2_400x600.jpg
   alt: shane
 ---
 
