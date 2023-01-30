@@ -22,7 +22,7 @@ Engineering Product Development Pillar<br>
 
 #### 26 May 2022
 
-Shane's co-authored research titled 'Cooperative Modular Single Actuator Monocopters capable of Controlled Passive Separation' wins the 'Outstanding Dynamics and Control Award' at _IEEE International Conference on Robotics and Automation (ICRA) 2022_!
+Shane's co-authored research titled 'Cooperative Modular Single Actuator Monocopters capable of Controlled Passive Separation' wins the 'Outstanding Dynamics and Control Paper Award' at _IEEE International Conference on Robotics and Automation (ICRA) 2022_!
 
 #### 18 Nov 2021
 
