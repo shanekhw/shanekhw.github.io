@@ -6,7 +6,7 @@ slug: /publications
 
 ### Journal Articles
 - X. Cai, **S.K.H. Win**, H. Bhardwaj, S. Foong, "Modeling, control and implementation of Adaptive Reconfigurable ROtary Wings (ARROWs)," _IEEE/ASME Transactions on Mechatronics_, Early Access, 2021. ([article](https://doi.org/10.1109/TMECH.2023.3235346))
-- D. Sufiyan, L.S.T. Win, **S.K.H. Win**, Y.H. Pheh, G.S. Soh, S. Foong, "An efficient multi-modal nature-inspired unmanned aerial vehicle capable of agile maneuvers," _Advanced Intelligent Systems_, 2022. ([article](https://doi.org/10.1002/aisy.202200242))
+- D. Sufiyan, L.S.T. Win, **S.K.H. Win**, Y.H. Pheh, G.S. Soh, S. Foong, "An efficient multi-modal nature-inspired unmanned aerial vehicle capable of agile maneuvers," _Advanced Intelligent Systems_, Vol 5(1), 2200242, 2022. ([article](https://doi.org/10.1002/aisy.202200242))
 - Y.H. Pheh, **S.K.H. Win**, S. Foong, "Spherical Indoor Coanda Effect Drone (SpICED): A spherical blimp sUAS for Safe Indoor Use," _Drones_, Vol 6(9), 260, 2022. ([article](https://doi.org/10.3390/drones6090260))
 - H. Bhardwaj, X. Cai, **S.K.H. Win**, S. Foong, "Design, modeling and control of a two flight mode capable single wing rotorcraft with mid-air transition capability," _IEEE Robotics and Automation Letters_, Vol 7(4), 11720-11727, 2022. ([article](https://doi.org/10.1109/LRA.2022.3205454))
 - **S.K.H. Win**, L.S.T. Win, D. Sufiyan, S. Foong, "Design and control of the first foldable single-actuator rotary wing micro aerial vehicle," _Bioinspiration & Biomimetics_, Vol 16(6), 2021. ([article](https://iopscience.iop.org/article/10.1088/1748-3190/ac253a), [video](https://youtu.be/K0POjjIC5xs))
