@@ -20,7 +20,7 @@ slug: /publications
 
 ### Conference Proceedings
 - B.L. Suhadi, T. Wong, **S.K.H. Win**, L.S.T. Win, S. Foong, "Design and control of a ground-aerial dual actuator monocopter (G-ADAM)," in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Seattle, USA, 27 June - 1 July, 2023.
-- D. Sufiyan, Y.H. Pheh, L.S.T. Win, S.K.H. Win, U.X. Tan, S. Foong, "Panaromic image-based aerial localization using synthetic data via photogrammetric reconstruction," in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Seattle, USA, 27 June - 1 July, 2023.
+- D. Sufiyan, Y.H. Pheh, L.S.T. Win, **S.K.H. Win**, U.X. Tan, S. Foong, "Panaromic image-based aerial localization using synthetic data via photogrammetric reconstruction," in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Seattle, USA, 27 June - 1 July, 2023.
 - L.S.T. Win, **S.K.H. Win**, D. Sufiyan, S. Foong, "Novel rigid-wing bi-directional sailboat design and method of sailing," in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Seattle, USA, 27 June - 1 July, 2023.
 - **S.K.H. Win**, K. Lim, B.L. Suhadi, D. Sufiyan, S. Foong, "Aerial deployment of novel gravity-assisted ground penetrating sensors using nature-inspired platform," in _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics_, Seattle, USA, 27 June - 1 July, 2023.
 - B.L. Suhadi, **S.K.H. Win**, L.S.T. Win, S. Foong, "Design and performance analysis of a Biplane-Inspired Monocopter (BIM) produced via FDM addictive manufacturing process," in _Materials Today: Proceedings_, Singapore, 23-25 August, 2022. ([article](https://doi.org/10.1016/j.matpr.2022.09.011))
