@@ -20,6 +20,10 @@ Engineering Product Development Pillar<br>
 
 **News**
 
+#### 28 June 2023
+
+Shane's co-authored research titled "Design and Control of a Ground-Aerial Dual Actuator Monocopter" wins the 'Best Student Paper Award' at _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics (AIM) 2023_!
+
 #### 26 May 2022
 
 Shane's co-authored research titled 'Cooperative Modular Single Actuator Monocopters capable of Controlled Passive Separation' wins the 'Outstanding Dynamics and Control Paper Award' at _IEEE International Conference on Robotics and Automation (ICRA) 2022_!
