@@ -5,6 +5,7 @@ slug: /publications
 ---
 
 ### Journal Articles
+- T. Ching, J.Z.W. Lee, **S.K.H. Win**, L.S.T. Win, D. Sufiyan, C.P.X. Lim, N. Nagaraju, Y.C. Toh, S. Foong, M. Hashimoto, "Crawling, climbing, perching, and flying by FiBa soft robots," _Science Robotics_, Vol 9, Issue 92, 2024. ([article](https://doi.org/10.1126/scirobotics.adk4533))
 - X. Cai, **S.K.H. Win**, H. Bhardwaj, S. Foong, "Modeling, control and implementation of Adaptive Reconfigurable ROtary Wings (ARROWs)," _IEEE/ASME Transactions on Mechatronics_, Vol 28(4), 2023. ([article](https://doi.org/10.1109/TMECH.2023.3235346), [video](https://youtu.be/Il006Ma5zrU))
 - D. Sufiyan, L.S.T. Win, **S.K.H. Win**, Y.H. Pheh, G.S. Soh, S. Foong, "An efficient multi-modal nature-inspired unmanned aerial vehicle capable of agile maneuvers," _Advanced Intelligent Systems_, Vol 5(1), 2200242, 2022. ([article](https://doi.org/10.1002/aisy.202200242))
 - Y.H. Pheh, **S.K.H. Win**, S. Foong, "Spherical Indoor Coanda Effect Drone (SpICED): A spherical blimp sUAS for Safe Indoor Use," _Drones_, Vol 6(9), 260, 2022. ([article](https://doi.org/10.3390/drones6090260))
