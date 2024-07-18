@@ -20,6 +20,10 @@ Engineering Product Development Pillar<br>
 
 **News**
 
+#### 18 July 2024
+
+Shane's co-authored research titled "Crawling, climbing, perching, and flying by FiBa soft robots" gets published in Science Robotics! Read it [here](https://doi.org/10.1126/scirobotics.adk4533)!
+
 #### 28 June 2023
 
 Shane's co-authored research titled "Design and Control of a Ground-Aerial Dual Actuator Monocopter" wins the 'Best Student Paper Award' at _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics (AIM) 2023_!
