@@ -22,7 +22,7 @@ Engineering Product Development Pillar<br>
 
 #### 18 July 2024
 
-Shane's co-authored research titled "Crawling, climbing, perching, and flying by FiBa soft robots" gets published in Science Robotics! Read it [here](https://doi.org/10.1126/scirobotics.adk4533)!
+Shane's co-authored research titled "Crawling, climbing, perching, and flying by FiBa soft robots" gets published in _Science Robotics_! Read it [here](https://doi.org/10.1126/scirobotics.adk4533)!
 
 #### 28 June 2023
 
