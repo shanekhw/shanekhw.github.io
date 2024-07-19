@@ -20,13 +20,17 @@ Engineering Product Development Pillar<br>
 
 **News**
 
+#### 19 July 2024
+
+Shane's co-authored research titled "Direct aerial visual localization using panoramic synthetic images and domain adaptation" wins the 'Best Conference Paper Finalist' at _IEEE International Conference on Advanced Intelligent Mechatronics (AIM) 2024_!
+
 #### 18 July 2024
 
 Shane's co-authored research titled "Crawling, climbing, perching, and flying by FiBa soft robots" gets published in _Science Robotics_! Read it [here](https://doi.org/10.1126/scirobotics.adk4533)!
 
 #### 28 June 2023
 
-Shane's co-authored research titled "Design and Control of a Ground-Aerial Dual Actuator Monocopter" wins the 'Best Student Paper Award' at _Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics (AIM) 2023_!
+Shane's co-authored research titled "Design and Control of a Ground-Aerial Dual Actuator Monocopter" wins the 'Best Student Paper Award' at _IEEE International Conference on Advanced Intelligent Mechatronics (AIM) 2023_!
 
 #### 26 May 2022
 
