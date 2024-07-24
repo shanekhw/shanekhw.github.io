@@ -19,6 +19,8 @@ Engineering Product Development Pillar<br>
 
 
 **News**
+#### 24 July 2024
+Shane receives Research Quality Award from Temasek Labs @ SUTD for excellence in research!
 
 #### 19 July 2024
 
