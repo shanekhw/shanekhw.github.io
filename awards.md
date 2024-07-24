@@ -5,6 +5,9 @@ slug: /awards
 ---
 
 ### Awards
+- Research Quality Award, Temasek Labs @ SUTD, 2024
+- Best Conference Paper Finalist, IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2024<br>Paper: _Direct Aerial Visual Localization using Panoramic Synthetic Images and Domain Adaptation_
+- Best Student Paper, IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2023<br>Paper: _Design and Control of a Ground-Aerial Dual Actuator Monocopter (G-ADAM)_
 - Outstanding Dynamics and Control Paper Award, IEEE International Conference on Robotics and Automation, 2022<br>Paper: _Cooperative Modular Single Actuator Monocopters capable of Controlled Passive Separation_
 - Design Practice Award: Best PhD Thesis Award, Singapore University of Technology and Design, 2020<br>Thesis: _Design, Development and Control of Samara-inspired Autorotating Wings for Aerial Payload Deployment_
 - [Finalist, Best Paper Award, 2020](https://www.springer.com/journal/41315/updates/18638712), International Journal of Intelligent Robotics and Applications<br>Paper: _Design, modelling and control of collaborative Samara Autorotating Wings (SAW)_
