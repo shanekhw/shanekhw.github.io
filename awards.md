@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Awards and Technology Disclosures
+title: Awards and Patents
 slug: /awards
 ---
 
@@ -23,7 +23,8 @@ slug: /awards
 - ASEAN Undergraduate Scholarship, 2012
 - Gold Medal for Diploma in Mechatronics, 2011
 
-### Technology Disclosures
-- S.K.H. Win, L.S.T. Win, G.S. Soh, S. Foong, "_Autorotating aerial device, method of forming the autorotating aerial device and an autorotating aerial system_," 2021<br>[_WO 2021/230817 A1_](https://www.lens.org/lens/patent/058-298-877-449-189/frontpage)
-- L.S.T. Win, S.K.H. Win, G.S. Soh, S. Foong, "_Mono-wing aerial device and method of forming the mono-wing aerial device_," 2022<br>[_WO 2022/010419 A1_](https://www.lens.org/lens/patent/117-533-479-827-207/frontpage)
+### Patents
 - S. Foong, S.K.H. Win, C.H. Tan, D. Sufiyan, L.S.T. Win, H.B. Lim, S.K. Yeung, "_Aerial Vehicles, methods of imaging a tunnel and methods of imaging a shaft_," 2021<br>[_US 2021/0129987 A1_](https://www.lens.org/lens/patent/040-345-353-760-625/frontpage)
+- L.S.T. Win, S.K.H. Win, S. Foong, "_Mono-wing aerial device and method of forming the mono-wing aerial device_," 2023<br>[_US 2023/0312142 A1_](https://patents.google.com/patent/US20230312142A1/en)
+- S.K.H. Win, L.S.T. Win, S. Foong, G.S. Soh, "_Autorotating aerial device, method of forming the autorotating aerial device and an autorotating aerial system_," 2023<br>[_US 2023/0348075 A1_](https://patents.google.com/patent/US20230348075A1/en)
+- Y.H. Pheh, S.K.H. Win, S. Foong, "_Unmanned aerial vehicle, propulsion unit for an unmanned aerial vehicle, and controlling system for an unmanned aerial vehicle_", 2024<br>[_US 2024/0239529 A1_](https://patents.google.com/patent/US20240239529A1/en)
