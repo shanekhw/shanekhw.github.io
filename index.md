@@ -19,6 +19,10 @@ Engineering Product Development Pillar<br>
 
 
 **News**
+
+#### 11 Sep 2024
+Shane and his team 'airXeed' wins James Dyson Award (National Runner-up) for their [smart reuseable Radiosonde](https://www.jamesdysonaward.org/en-US/2024/project/airxeed-radiosonde)! Local newspaper Zaobao features their award [here](https://www.zaobao.com.sg/news/singapore/story20240912-4677956).
+
 #### 24 July 2024
 Shane receives Research Quality Award from Temasek Labs @ SUTD for excellence in research!
 
