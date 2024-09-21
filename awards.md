@@ -5,7 +5,7 @@ slug: /awards
 ---
 
 ### Awards
-- James Dyson Award, National Finalist (Singapore), 2024
+- James Dyson Award, National Runner-up (Singapore), 2024
 - Research Quality Award, Temasek Labs @ SUTD, 2024
 - Best Conference Paper Finalist, IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2024<br>Paper: _Direct Aerial Visual Localization using Panoramic Synthetic Images and Domain Adaptation_
 - Best Student Paper, IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2023<br>Paper: _Design and Control of a Ground-Aerial Dual Actuator Monocopter (G-ADAM)_
