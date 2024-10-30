@@ -20,6 +20,9 @@ Engineering Product Development Pillar<br>
 
 **News**
 
+#### 16 Oct 2024
+Shane's team 'airXeed' gets selected for [Global Top 20](https://www.dyson.co.uk/discover/sustainability/james-dyson-award/james-dyson-award-2024-global-top-20-shortlist) shortlist in the JDA 2024!
+
 #### 11 Sep 2024
 Shane and his team 'airXeed' wins James Dyson Award (National Runner-up) for their [smart reuseable Radiosonde](https://www.jamesdysonaward.org/en-US/2024/project/airxeed-radiosonde)! Local newspaper Zaobao features their award [here](https://www.zaobao.com.sg/news/singapore/story20240912-4677956).
 
