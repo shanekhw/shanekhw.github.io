@@ -22,7 +22,7 @@ Engineering Product Development Pillar<br>
 
 #### 13 Nov 2024
 
-Shane's team 'airXeed' wins [Global Sustainability Winner 2024](https://www.jamesdysonaward.org/en-US/2024/project/airxeed-radiosonde) for [James Dyson Award](https://www.jamesdysonaward.org/en-US/), beating nearly 2000 innovative designs globally! The team's winning entry [airXeed Radiosonde](https://airxeed.tech/home/smart-radiosonde) gets featured on [Straits Times](https://www.straitstimes.com/singapore/maple-seed-inspired-tech-wins-james-dyson-sustainability-award).
+Shane's team 'airXeed' wins [Global Sustainability Winner 2024](https://www.jamesdysonaward.org/en-US/2024/project/airxeed-radiosonde) for [James Dyson Award](https://www.jamesdysonaward.org/en-US/), beating nearly 2000 innovative designs globally! The team's winning entry [airXeed Radiosonde](https://airxeed.tech/home/smart-radiosonde) gets featured on [Straits Times](https://www.straitstimes.com/singapore/maple-seed-inspired-tech-wins-james-dyson-sustainability-award), [Dezeen](https://www.dezeen.com/2024/11/13/james-dyson-award-2024-international-winners/#/).
 
 #### 16 Oct 2024
 Shane's team 'airXeed' gets selected for [Global Top 20](https://www.dyson.co.uk/discover/sustainability/james-dyson-award/james-dyson-award-2024-global-top-20-shortlist) shortlist in the JDA 2024!
