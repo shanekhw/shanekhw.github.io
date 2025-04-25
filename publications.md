@@ -5,6 +5,7 @@ slug: /publications
 ---
 
 ### Journal Articles
+- L. Jiang, Y.H. Pheh, **S.K.H. Win**, Y. Tang, Y. Yang, S. Foong, "Mass distribution affects the circle or hypotrochoid trajectory of the maple seed," _Physics of Fluids_, Vol 37, Issue 4, 2025. ([article](https://doi.org/10.1063/5.0264239))
 - X. Cai, **S.K.H. Win**, S. Foong, "QuadRotary: Design and control of in-flight transition between quadcopter and rotary-wing," _IEEE/ASME Transactions on Mechatronics_, Early Access, 2025. ([article](https://doi.org/10.1109/TMECH.2025.3556021))
 - T. Ching, J.Z.W. Lee, **S.K.H. Win**, L.S.T. Win, D. Sufiyan, C.P.X. Lim, N. Nagaraju, Y.C. Toh, S. Foong, M. Hashimoto, "Crawling, climbing, perching, and flying by FiBa soft robots," _Science Robotics_, Vol 9, Issue 92, 2024. ([article](https://doi.org/10.1126/scirobotics.adk4533))
 - X. Cai, **S.K.H. Win**, H. Bhardwaj, S. Foong, "Modeling, control and implementation of Adaptive Reconfigurable ROtary Wings (ARROWs)," _IEEE/ASME Transactions on Mechatronics_, Vol 28(4), 2023. ([article](https://doi.org/10.1109/TMECH.2023.3235346), [video](https://youtu.be/Il006Ma5zrU))
