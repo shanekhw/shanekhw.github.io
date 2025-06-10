@@ -5,6 +5,7 @@ slug: /publications
 ---
 
 ### Journal Articles
+- H. Bhardwaj, L.S.T. Win, **S.K.H. Win**, X. Cai, S. Foong, "ATOM: Design and development of a novel two-actuator hybrid land-air robot," _The International Journal of Robotics Research_, 2025. ([article](https://doi.org/10.1177/02783649251344968))
 - L. Jiang, Y.H. Pheh, **S.K.H. Win**, Y. Tang, Y. Yang, S. Foong, "Mass distribution affects the circle or hypotrochoid trajectory of the maple seed," _Physics of Fluids_, Vol 37, Issue 4, 2025. ([article](https://doi.org/10.1063/5.0264239))
 - X. Cai, **S.K.H. Win**, S. Foong, "QuadRotary: Design and control of in-flight transition between quadcopter and rotary-wing," _IEEE/ASME Transactions on Mechatronics_, Early Access, 2025. ([article](https://doi.org/10.1109/TMECH.2025.3556021))
 - T. Ching, J.Z.W. Lee, **S.K.H. Win**, L.S.T. Win, D. Sufiyan, C.P.X. Lim, N. Nagaraju, Y.C. Toh, S. Foong, M. Hashimoto, "Crawling, climbing, perching, and flying by FiBa soft robots," _Science Robotics_, Vol 9, Issue 92, 2024. ([article](https://doi.org/10.1126/scirobotics.adk4533))
