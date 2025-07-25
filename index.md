@@ -20,12 +20,16 @@ Engineering Product Development Pillar<br>
 
 **News**
 
-#### 19 May 2025
+#### 25 Jul 2025
+Shane receives Research Quality Award from Temasek Labs @ SUTD for excellence in research!
 
+#### 16 Jul 2025
+Shane's co-authored research titled "Integration of CTA sensors for resultant velocity measurements in Monocopter" wins the 'Best Conference Paper' award at _2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)_!
+
+#### 19 May 2025
 Shane and his co-authors win Best Poster Award at ICRA REaCT Workshop!
 
 #### 13 Nov 2024
-
 Shane's team 'airXeed' wins [Global Sustainability Winner 2024](https://www.dyson.co.uk/discover/sustainability/james-dyson-award/2024-global-winners-airxeed-radiosonde) for [James Dyson Award](https://www.jamesdysonaward.org/en-US/), beating nearly 2000 innovative designs globally! The team's winning entry [airXeed Radiosonde](https://www.jamesdysonaward.org/en-US/2024/project/airxeed-radiosonde) gets featured on [The Straits Times](https://www.straitstimes.com/singapore/maple-seed-inspired-tech-wins-james-dyson-sustainability-award), [Dezeen](https://www.dezeen.com/2024/11/13/james-dyson-award-2024-international-winners/#/), [Berita Harian](https://www.beritaharian.sg/singapura/dua-penyelidik-sutd-menang-anugerah-james-dyson-bagi-alat-pemantau-cuaca-mampan), [SpringWise](https://springwise.com/innovation/sustainability/tackling-plastic-and-e-waste-from-weather-balloons/), [PR Newswire](https://www.prnewswire.com/in/news-releases/james-dyson-award-announces-its-2024-global-winners-hair-loss-prevention-device-for-chemotherapy-patients-and-sustainable-maple-seed-weather-balloon-302305708.html), [The Manila Times](https://www.manilatimes.net/2024/11/18/tmt-newswire/james-dyson-award-announces-2024-global-winners/2005952), [The Peak Magazine](https://www.thepeakmagazine.com.sg/lifestyle/james-dyson-award-20241), [TechEDT](https://www.techedt.com/local-inventors-win-global-james-dyson-award-for-sustainable-weather-monitoring-device), [Sin Chew Daily](https://www.sinchew.com.my/news/20241204/supplement/6123979) and so on. The team is also featured in radio interviews with [Money 89.3FM](https://omny.fm/shows/moneyfm-morning-show/mind-your-business-how-did-two-singaporean-invento) and [CNA 938](https://www.channelnewsasia.com/listen/daily-cuts/singaporean-inventors-win-james-dyson-award-2024-4627581?field_season_value=621121&page=1)! 
 
 #### 16 Oct 2024
