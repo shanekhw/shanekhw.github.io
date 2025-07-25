@@ -5,6 +5,8 @@ slug: /awards
 ---
 
 ### Awards
+- Research Quality Award, Temasek Labs @ SUTD, 2025
+- Best Conference Paper, IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2025<br>Paper: _Integration of CTA Sensors for Resultant Velocity Measurements in Monocopter_
 - Best Poster Award, 'airXeed Radiosonde: A Nature-Inspired Solution for Sustainable Atmospheric Sensing', at 2025 IEEE International Conference for Robotics and Automation - REaCT: Robotics for Environmental and Climate Assessment Workshop.
 - James Dyson Award, [Global Sustainability Winner, 2024](https://www.dyson.co.uk/discover/sustainability/james-dyson-award/2024-global-winners-airxeed-radiosonde) for [airXeed Radiosonde](https://www.jamesdysonaward.org/en-US/2024/project/airxeed-radiosonde)
 - Research Quality Award, Temasek Labs @ SUTD, 2024
