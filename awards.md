@@ -5,6 +5,7 @@ slug: /awards
 ---
 
 ### Awards
+- Best Poster Award, Robotics for Environmental and Climate Assessment (REaCT) Workshop, IEEE International Conference on Robotics and Automation, 2025
 - Research Quality Award, Temasek Labs @ SUTD, 2025
 - Best Conference Paper, IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2025<br>Paper: _Integration of CTA Sensors for Resultant Velocity Measurements in Monocopter_
 - Best Poster Award, 'airXeed Radiosonde: A Nature-Inspired Solution for Sustainable Atmospheric Sensing', at 2025 IEEE International Conference for Robotics and Automation - REaCT: Robotics for Environmental and Climate Assessment Workshop.
