@@ -17,6 +17,6 @@ items:
     image:
       src: /assets/img/work/sp_square.png
       alt: SP
-    description: 2011 (with Merit)<br>Singapore Polytechnic (SP), Singapore<br>Final Year Project - Self Bilateral Manipulator to Retain and Improve Upper Limb Functional Capability
+    description: 2011 (Gold Medalist)<br>Singapore Polytechnic (SP), Singapore<br>Final Year Project - Self Bilateral Manipulator to Retain and Improve Upper Limb Functional Capability
 ---
 <br />
