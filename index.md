@@ -20,6 +20,9 @@ Engineering Product Development Pillar<br>
 
 **News**
 
+#### 7 Jul 2026
+Shane's co-authored research titled "QuadRotary: Design and Control of In-Flight Transition Between Quadcopter and Rotary-Wing" wins the 'Best Paper Award' for _IEEE/ASME Transactions on Mechatronics 2025_!
+
 #### 25 Jul 2025
 Shane receives Research Quality Award from Temasek Labs @ SUTD for excellence in research!
 
