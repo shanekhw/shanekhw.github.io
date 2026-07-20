@@ -5,6 +5,7 @@ slug: /awards
 ---
 
 ### Awards
+- Best Paper Award, IEEE/ASME Transactions on Mechatronics 2025<br>Paper: _QuadRotary: Design and Control of In-Flight Transition between Quadcopter and Rotary-Wing_
 - Best Poster Award, Robotics for Environmental and Climate Assessment (REaCT) Workshop, IEEE International Conference on Robotics and Automation, 2025
 - Research Quality Award, Temasek Labs @ SUTD, 2025
 - Best Conference Paper, IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2025<br>Paper: _Integration of CTA Sensors for Resultant Velocity Measurements in Monocopter_
