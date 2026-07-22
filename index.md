@@ -20,11 +20,14 @@ Engineering Product Development Pillar<br>
 
 **News**
 
+#### 22 Jul 2026
+Shane receives Research Quality Award from Temasek Labs @ SUTD for excellence in research for 2025!
+
 #### 7 Jul 2026
 Shane's co-authored research titled "QuadRotary: Design and Control of In-Flight Transition Between Quadcopter and Rotary-Wing" wins the 'Best Paper Award' for _IEEE/ASME Transactions on Mechatronics 2025_!
 
 #### 25 Jul 2025
-Shane receives Research Quality Award from Temasek Labs @ SUTD for excellence in research!
+Shane receives Research Quality Award from Temasek Labs @ SUTD for excellence in research for 2024!
 
 #### 16 Jul 2025
 Shane's co-authored research titled "Integration of CTA sensors for resultant velocity measurements in Monocopter" wins the 'Best Conference Paper' award at _2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)_!
@@ -42,7 +45,7 @@ Shane's team 'airXeed' gets selected for [Global Top 20](https://www.dyson.co.uk
 Shane and his team 'airXeed' wins James Dyson Award (National Runner-up) for their [smart reuseable Radiosonde](https://www.jamesdysonaward.org/en-US/2024/project/airxeed-radiosonde)! Local newspaper Zaobao features their award [here](https://www.zaobao.com.sg/news/singapore/story20240912-4677956).
 
 #### 24 July 2024
-Shane receives Research Quality Award from Temasek Labs @ SUTD for excellence in research!
+Shane receives Research Quality Award from Temasek Labs @ SUTD for excellence in research for 2023!
 
 #### 19 July 2024
 
